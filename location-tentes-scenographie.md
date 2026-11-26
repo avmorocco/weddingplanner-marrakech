@@ -18,7 +18,7 @@ Catalogue Exclusif Marrakech
 
 **Tentes & Scénographie**
 
-Nos pièces signature: tentes nomades, lustres monumentaux, salons et scènes, pour transformer n'importe quel lieu.
+Nos pièces signature : tentes nomades, lustres monumentaux, salons et scènes, pour transformer n'importe quel lieu.
 
 [← Toutes les collections](https://www.weddingplanner-marrakech.com/location.html)
 
@@ -26,7 +26,7 @@ Nos pièces signature: tentes nomades, lustres monumentaux, salons et scènes, p
 
 ## Tentes & Scénographie
 
-Nos pièces signature: tentes nomades, lustres monumentaux, salons et scènes, pour transformer n'importe quel lieu. Livraison à Marrakech et dans tout le Maroc, montage compris. Réservation conseillée 3 mois à l'avance. Tarifs sur devis.
+Nos pièces signature : tentes nomades, lustres monumentaux, salons et scènes, pour transformer n'importe quel lieu. Livraison à Marrakech et dans tout le Maroc, montage compris. Réservation conseillée 3 mois à l'avance. Tarifs sur devis.
 
 ### Salon Majlis Lounge Terracotta
 

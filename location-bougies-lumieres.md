@@ -30,43 +30,43 @@ Lanternes, lustres, lampes sans fil, bougeoirs, photophores et guirlandes pour m
 
 ### Lustre ERIC
 
-Lustre suspendu pour habiller une tente, un patio ou une salle de réception. Matières et couleurs: cristal, verre.
+Lustre suspendu pour habiller une tente, un patio ou une salle de réception. Matières et couleurs : cristal, verre.
 
 Sur devis
 
 ### Lampe MACA
 
-Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs: ivoire.
+Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs : ivoire.
 
 Sur devis
 
 ### Lampe RAIS
 
-Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs: ivoire.
+Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs : ivoire.
 
 Sur devis
 
 ### Lampe HAHO
 
-Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs: noir, métal, verre.
+Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs : noir, métal, verre.
 
 Sur devis
 
 ### Lampe HONEY
 
-Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs: doré, laiton, verre.
+Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs : doré, laiton, verre.
 
 Sur devis
 
 ### Lampe HATT
 
-Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs: beige.
+Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs : beige.
 
 Sur devis
 
 ### Lampe ROFI
 
-Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs: beige.
+Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs : beige.
 
 Sur devis
 
@@ -78,79 +78,79 @@ Sur devis
 
 ### Lampe ISTA
 
-Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs: doré, laiton.
+Lampe d'ambiance pour salons, bars et tables d'accueil. Matières et couleurs : doré, laiton.
 
 Sur devis
 
 ### Lampe sans fil LUNO
 
-Lampe rechargeable sans fil, parfaite pour les tables en extérieur. Matières et couleurs: noir.
+Lampe rechargeable sans fil, parfaite pour les tables en extérieur. Matières et couleurs : noir.
 
 Sur devis
 
 ### Lampe sans fil BOLI
 
-Lampe rechargeable sans fil, parfaite pour les tables en extérieur. Matières et couleurs: argenté.
+Lampe rechargeable sans fil, parfaite pour les tables en extérieur. Matières et couleurs : argenté.
 
 Sur devis
 
 ### Lampe sans fil CONE
 
-Lampe rechargeable sans fil, parfaite pour les tables en extérieur. Matières et couleurs: argenté.
+Lampe rechargeable sans fil, parfaite pour les tables en extérieur. Matières et couleurs : argenté.
 
 Sur devis
 
 ### Lustre TAMS
 
-Lustre suspendu pour habiller une tente, un patio ou une salle de réception. Matières et couleurs: doré, métal.
+Lustre suspendu pour habiller une tente, un patio ou une salle de réception. Matières et couleurs : doré, métal.
 
 Sur devis
 
 ### Bougeoir AZAR
 
-Bougeoir pour bougies fines, seul ou en composition sur les tables. Matières et couleurs: doré, argenté, laiton.
+Bougeoir pour bougies fines, seul ou en composition sur les tables. Matières et couleurs : doré, argenté, laiton.
 
 Sur devis
 
 ### Bougeoir BALL
 
-Bougeoir pour bougies fines, seul ou en composition sur les tables. Matières et couleurs: doré, laiton.
+Bougeoir pour bougies fines, seul ou en composition sur les tables. Matières et couleurs : doré, laiton.
 
 Sur devis
 
 ### Bougeoir VINNY
 
-Bougeoir pour bougies fines, seul ou en composition sur les tables. Matières et couleurs: doré, laiton.
+Bougeoir pour bougies fines, seul ou en composition sur les tables. Matières et couleurs : doré, laiton.
 
 Sur devis
 
 ### Photophores DREW
 
-Photophores pour bougies, à disposer en ligne ou en bouquet. Matières et couleurs: vert.
+Photophores pour bougies, à disposer en ligne ou en bouquet. Matières et couleurs : vert.
 
 Sur devis
 
 ### Photophores LILLY
 
-Photophores pour bougies, à disposer en ligne ou en bouquet. Matières et couleurs: ivoire, blanc, céramique.
+Photophores pour bougies, à disposer en ligne ou en bouquet. Matières et couleurs : ivoire, blanc, céramique.
 
 Sur devis
 
 ### Bougie TAME
 
-Bougie pour photophores, bougeoirs et compositions. Matières et couleurs: vert.
+Bougie pour photophores, bougeoirs et compositions. Matières et couleurs : vert.
 
 Sur devis
 
 ### Bougie TAGI
 
-Bougie pour photophores, bougeoirs et compositions. Matières et couleurs: blanc.
+Bougie pour photophores, bougeoirs et compositions. Matières et couleurs : blanc.
 
 Sur devis
 
 ### Bougie AMBER
 
-Bougie pour photophores, bougeoirs et compositions. Matières et couleurs: ivoire, verre, lin.
+Bougie pour photophores, bougeoirs et compositions. Matières et couleurs : ivoire, verre, lin.
 
 Sur devis
 
@@ -162,37 +162,37 @@ Sur devis
 
 ### Bougie EKAI
 
-Bougie pour photophores, bougeoirs et compositions. Matières et couleurs: verre, transparent.
+Bougie pour photophores, bougeoirs et compositions. Matières et couleurs : verre, transparent.
 
 Sur devis
 
 ### Bougeoir ALI
 
-Bougeoir pour bougies fines, seul ou en composition sur les tables. Matières et couleurs: cristal, verre, transparent.
+Bougeoir pour bougies fines, seul ou en composition sur les tables. Matières et couleurs : cristal, verre, transparent.
 
 Sur devis
 
 ### Photophore RIBBI
 
-Photophore pour bougie, pour une lumière douce sur les tables et les allées. Matières et couleurs: verre, transparent.
+Photophore pour bougie, pour une lumière douce sur les tables et les allées. Matières et couleurs : verre, transparent.
 
 Sur devis
 
 ### Photophore LORI
 
-Photophore pour bougie, pour une lumière douce sur les tables et les allées. Matières et couleurs: verre, transparent.
+Photophore pour bougie, pour une lumière douce sur les tables et les allées. Matières et couleurs : verre, transparent.
 
 Sur devis
 
 ### Photophore HANA
 
-Photophore pour bougie, pour une lumière douce sur les tables et les allées. Matières et couleurs: verre, transparent.
+Photophore pour bougie, pour une lumière douce sur les tables et les allées. Matières et couleurs : verre, transparent.
 
 Sur devis
 
 ### Photophore REDA
 
-Photophore pour bougie, pour une lumière douce sur les tables et les allées. Matières et couleurs: doré, verre, rouge.
+Photophore pour bougie, pour une lumière douce sur les tables et les allées. Matières et couleurs : doré, verre, rouge.
 
 Sur devis
 
@@ -210,90 +210,90 @@ Sur devis
 
 ### Bougie PILLA
 
-Bougie pour photophores, bougeoirs et compositions. Matières et couleurs: ivoire.
+Bougie pour photophores, bougeoirs et compositions. Matières et couleurs : ivoire.
 
 Sur devis
 
 ### Candélabre CLARON
 
-Candélabre à plusieurs branches pour les tables d'honneur. Matières et couleurs: noir.
+Candélabre à plusieurs branches pour les tables d'honneur. Matières et couleurs : noir.
 
 Sur devis
 
 ### Bougie CABO
 
-Bougie pour photophores, bougeoirs et compositions. Matières et couleurs: noir, métal.
+Bougie pour photophores, bougeoirs et compositions. Matières et couleurs : noir, métal.
 
 Sur devis
 
 ### Lanterne NOUR
 
-Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs: noir.
+Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs : noir.
 
 Sur devis
 
 ### Lanterne JORD
 
-Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs: noir, laiton.
+Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs : noir, laiton.
 
 Sur devis
 
 ### Lanterne MARIE
 
-Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs: marron.
+Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs : marron.
 
 Sur devis
 
 ### Lanterne KBIR
 
-Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs: noir.
+Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs : noir.
 
 Sur devis
 
 ### Lanterne STRA
 
-Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs: doré, laiton.
+Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs : doré, laiton.
 
 Sur devis
 
 ### Lanterne GOLDIE
 
-Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs: doré, laiton.
+Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs : doré, laiton.
 
 Sur devis
 
 ### Lanterne TEAR
 
-Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs: doré, laiton.
+Lanterne à poser ou à suspendre pour baliser les allées et réchauffer l'ambiance. Matières et couleurs : doré, laiton.
 
 Sur devis
 
 ### Guirlande fée
 
-Guirlande de micro-LED pour arbres, tables et voilages. Matières et couleurs: blanc.
+Guirlande de micro-LED pour arbres, tables et voilages. Matières et couleurs : blanc.
 
 Sur devis
 
 ### Guirlande guinguette
 
-Guirlande à grosses ampoules pour terrasses, jardins et tentes. Matières et couleurs: noir.
+Guirlande à grosses ampoules pour terrasses, jardins et tentes. Matières et couleurs : noir.
 
 Sur devis
 
 ### Support HOKO
 
-Support décoratif pour bougies ou petites compositions. Matières et couleurs: noir, métal, miroir.
+Support décoratif pour bougies ou petites compositions. Matières et couleurs : noir, métal, miroir.
 
 Sur devis
 
 ### Support PICO
 
-Support décoratif pour bougies ou petites compositions. Matières et couleurs: noir, métal.
+Support décoratif pour bougies ou petites compositions. Matières et couleurs : noir, métal.
 
 Sur devis
 
 ### Torche FIRE
 
-Torche de jardin pour éclairer allées et entrées. Matières et couleurs: noir, bois, métal.
+Torche de jardin pour éclairer allées et entrées. Matières et couleurs : noir, bois, métal.
 
 Sur devis

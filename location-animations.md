@@ -78,7 +78,7 @@ Sur devis
 
 ### Sièges cérémoniels (mida)
 
-Trônes et sièges d'honneur pour les mariés. Matières et couleurs: ivoire.
+Trônes et sièges d'honneur pour les mariés. Matières et couleurs : ivoire.
 
 Sur devis
 

@@ -48,7 +48,7 @@ Uniquement sur rendez-vous privé.
 
 #### Couples Internationaux
 
-Vous vivez à l'étranger? Nous organisons les rendez-vous en visioconférence à l'heure qui vous convient, avec sélection des lieux à distance.
+Vous vivez à l'étranger ? Nous organisons les rendez-vous en visioconférence à l'heure qui vous convient, avec sélection des lieux à distance.
 
 Votre Vision
 

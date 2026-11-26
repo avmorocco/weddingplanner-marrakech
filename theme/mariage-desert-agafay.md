@@ -24,9 +24,9 @@ L'Histoire du Thème
 
 ## Grandeur Minérale & Ciel Étoilé
 
-À seulement 40 minutes du tumulte de Marrakech, le désert de pierre d'Agafay offre un contraste saisissant: un paysage lunaire teinté d'or face aux crêtes enneigées du Haut-Atlas.
+À seulement 40 minutes du tumulte de Marrakech, le désert de pierre d'Agafay offre un contraste saisissant : un paysage lunaire teinté d'or face aux crêtes enneigées du Haut-Atlas.
 
-Nous y dressons des campements éphémères haute couture inspirés des caravanes princières d'antan: tentes caïdales blanches, tapis de laine tissés à la main, allées de 1 200 lanternes en métal ciselé et feu de camp majestueux crépitant sous la voie lactée.
+Nous y dressons des campements éphémères haute couture inspirés des caravanes princières d'antan : tentes caïdales blanches, tapis de laine tissés à la main, allées de 1 200 lanternes en métal ciselé et feu de camp majestueux crépitant sous la voie lactée.
 
 Lorsque le soleil disparaît derrière les dunes dans une explosion d'ocres et de pourpres, l'espace se métamorphose en une salle de bal céleste sans limites.
 

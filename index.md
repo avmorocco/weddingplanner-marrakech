@@ -98,7 +98,7 @@ Implantée au cœur de Marrakech, Wedding Planner Marrakech déploie les clés d
 
 La Magie de la Ville Ocre
 
-## Pourquoi se marier à Marrakech?
+## Pourquoi se marier à Marrakech ?
 
 Plébiscitée par les couples du monde entier, Marrakech conjugue dépaysement absolu, hospitalité raffinée et climat exceptionnel.
 
@@ -122,7 +122,7 @@ Privatisation totale des lieux
 
 ### Accessibilité internationale fluide
 
-L'aéroport de Marrakech-Ménara est relié par des vols directs à de nombreuses villes européennes, à environ 3 à 4 heures de vol: vos proches arrivent facilement, et nous organisons leur accueil.
+L'aéroport de Marrakech-Ménara est relié par des vols directs à de nombreuses villes européennes, à environ 3 à 4 heures de vol : vos proches arrivent facilement, et nous organisons leur accueil.
 
 Liaisons directes & accueil VIP
 

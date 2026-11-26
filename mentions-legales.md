@@ -20,7 +20,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 ### 1. Éditeur du Site
 
-Le site weddingplanner-marrakech.com est édité par la société Wedding Planner Marrakech SARL, société d'organisation d'événements et de location immatriculée au Registre du Commerce de Marrakech (Maroc). Siège social: Avenue Mohammed VI, Quartier Hivernage, Marrakech, Maroc. Téléphone: +212 (0) 6 56 39 46 42 E-mail: ocrewedding.marrakech@gmail.com Directrice de la publication: Kenza B.
+Le site weddingplanner-marrakech.com est édité par la société Wedding Planner Marrakech SARL, société d'organisation d'événements et de location immatriculée au Registre du Commerce de Marrakech (Maroc). Siège social : Avenue Mohammed VI, Quartier Hivernage, Marrakech, Maroc. Téléphone : +212 (0) 6 56 39 46 42 E-mail : ocrewedding.marrakech@gmail.com Directrice de la publication : Kenza B.
 
 ### 2. Hébergement
 

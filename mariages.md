@@ -96,7 +96,7 @@ Notre accompagnement le plus plébiscité. Une célébration d'envergure dans le
 
 Haute Couture • Multi-Jours & Sans Limite
 
-Pour les célébrations royales s'étendant sur 3 jours: Welcome Dinner d'Orient, Nuit de Noces féerique et Brunch piscine sous les palmiers.
+Pour les célébrations royales s'étendant sur 3 jours : Welcome Dinner d'Orient, Nuit de Noces féerique et Brunch piscine sous les palmiers.
 
 - 3 événements scénographiés distincts (J-1, Jour J, J+1)
 
@@ -136,7 +136,7 @@ La réussite d'un destination wedding à Marrakech réside dans le confort et l'
 
 Notre service de conciergerie privée prend en charge la réservation des riads et suites hôtelières partenaires, l'organisation des transferts privés en berline et la mise en place d'attentions d'accueil délicates.
 
-À leur arrivée en chambre, vos invités découvrent leur welcome kit personnalisé: papeterie de mariage raffinée, rafraîchissements minéraux en conditionnement éco-conçu, friandises marocaines artisanales et carnet de bord pour un séjour sans la moindre contrainte.
+À leur arrivée en chambre, vos invités découvrent leur welcome kit personnalisé : papeterie de mariage raffinée, rafraîchissements minéraux en conditionnement éco-conçu, friandises marocaines artisanales et carnet de bord pour un séjour sans la moindre contrainte.
 
 Accueil Personnalisé
 
@@ -152,21 +152,31 @@ Questions Fréquentes
 
 Les réponses de nos spécialistes pour préparer votre mariage à Marrakech en toute tranquillité.
 
+### Quelle est la meilleure période pour se marier à Marrakech ?
+
 Le printemps (avril à juin) et l'automne (septembre à novembre) offrent en général des journées chaudes et des soirées douces, idéales pour célébrer en plein air. L'été est très chaud en journée mais agréable le soir, notamment dans le désert d'Agafay.
+
+### Combien de temps à l'avance faut-il commencer les préparatifs ?
 
 Pour privatiser les palais les plus demandés de la Palmeraie ou les campements exclusifs d'Agafay, nous préconisons un délai de 8 à 12 mois. Toutefois, grâce à notre réseau permanent à Marrakech, nous pouvons également concevoir des mariages sur-mesure d'exception en 3 à 4 mois.
 
-Beaucoup de couples étrangers se marient civilement dans leur pays, puis célèbrent à Marrakech une cérémonie symbolique, laïque ou religieuse. Un mariage civil au Maroc est possible dans certains cas, mais il dépend de votre nationalité, de votre religion et des documents exigés: nous vous orientons vers les professionnels compétents (notaire, adoul, consulat) pour vérifier votre situation.
+### Comment gérez-vous les démarches légales et religieuses ?
+
+Beaucoup de couples étrangers se marient civilement dans leur pays, puis célèbrent à Marrakech une cérémonie symbolique, laïque ou religieuse. Un mariage civil au Maroc est possible dans certains cas, mais il dépend de votre nationalité, de votre religion et des documents exigés : nous vous orientons vers les professionnels compétents (notaire, adoul, consulat) pour vérifier votre situation.
+
+### Prenez-vous en charge l'hébergement et les transports des invités ?
 
 Absolument. Notre service de conciergerie VIP négocie des tarifs préférentiels dans les plus beaux hôtels et riads partenaires, et organise les transferts privés avec chauffeurs (Mercedes Classe V, limousines et minibus luxe) depuis l'aéroport Menara.
 
-Oui, de nombreux domaines privés de la Palmeraie et d'Agafay accueillent des soirées dansantes tard dans la nuit. Les horaires et le niveau sonore autorisés dépendent de chaque lieu: nous les vérifions avec le propriétaire avant toute réservation.
+### Peut-on faire la fête tard dans la nuit ?
+
+Oui, de nombreux domaines privés de la Palmeraie et d'Agafay accueillent des soirées dansantes tard dans la nuit. Les horaires et le niveau sonore autorisés dépendent de chaque lieu : nous les vérifions avec le propriétaire avant toute réservation.
 
 La Soirée
 
 ## Du Dîner à la Piste de Danse
 
-Dîner aux chandelles, ouverture du bal et groupe live: nous orchestrons aussi la mise en lumière et l’ambiance de votre soirée.
+Dîner aux chandelles, ouverture du bal et groupe live : nous orchestrons aussi la mise en lumière et l’ambiance de votre soirée.
 
 Scénographie & Lumière
 

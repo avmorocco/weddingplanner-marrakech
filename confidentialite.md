@@ -28,4 +28,4 @@ Les données recueillies via nos formulaires de contact ou de devis (noms, e-mai
 
 ### 3. Droit d'Accès & Suppression
 
-Vous disposez d'un droit permanent d'accès, de rectification et d'effacement de l'ensemble de vos données personnelles. Pour exercer ce droit, il vous suffit de nous adresser une demande par e-mail à: ocrewedding.marrakech@gmail.com.
+Vous disposez d'un droit permanent d'accès, de rectification et d'effacement de l'ensemble de vos données personnelles. Pour exercer ce droit, il vous suffit de nous adresser une demande par e-mail à : ocrewedding.marrakech@gmail.com.

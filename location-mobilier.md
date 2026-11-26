@@ -30,91 +30,91 @@ Chaises, fauteuils lounge, lits de jour, poufs, bars, cabines DJ, tables et scè
 
 ### Chaise ITALY
 
-Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs: ivoire, blanc, métal.
+Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs : ivoire, blanc, métal.
 
 Sur devis
 
 ### Chaise ROMA
 
-Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs: blanc.
+Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs : blanc.
 
 Sur devis
 
 ### Chaise GHOST
 
-Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs: transparent.
+Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs : transparent.
 
 Sur devis
 
 ### Chaise grise PANTON
 
-Chaise design pour dîners et cocktails. Matières et couleurs: noir, acrylique, gris.
+Chaise design pour dîners et cocktails. Matières et couleurs : noir, acrylique, gris.
 
 Sur devis
 
 ### Chaise marron PANTON
 
-Chaise design pour dîners et cocktails. Matières et couleurs: acrylique, marron.
+Chaise design pour dîners et cocktails. Matières et couleurs : acrylique, marron.
 
 Sur devis
 
 ### Chaise PANTO
 
-Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs: ivoire, beige.
+Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs : ivoire, beige.
 
 Sur devis
 
 ### Chaise CHIA
 
-Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs: bois, marron.
+Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs : bois, marron.
 
 Sur devis
 
 ### Chaise WALT
 
-Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs: bois.
+Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs : bois.
 
 Sur devis
 
 ### Chaise RAFF
 
-Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs: bois.
+Chaise de réception pour le dîner ou la cérémonie. Matières et couleurs : bois.
 
 Sur devis
 
 ### Fauteuil lounge LEO
 
-Fauteuil confortable pour espaces lounge et salons extérieurs. Matières et couleurs: blanc, bois, marron.
+Fauteuil confortable pour espaces lounge et salons extérieurs. Matières et couleurs : blanc, bois, marron.
 
 Sur devis
 
 ### Fauteuil lounge NORI
 
-Fauteuil confortable pour espaces lounge et salons extérieurs. Matières et couleurs: blanc, noir.
+Fauteuil confortable pour espaces lounge et salons extérieurs. Matières et couleurs : blanc, noir.
 
 Sur devis
 
 ### Lit de jour RONI
 
-Lit de jour pour piscine, plage ou espace chill-out. Matières et couleurs: blanc, noir.
+Lit de jour pour piscine, plage ou espace chill-out. Matières et couleurs : blanc, noir.
 
 Sur devis
 
 ### Lit de jour PILA
 
-Lit de jour pour piscine, plage ou espace chill-out. Matières et couleurs: bois, beige.
+Lit de jour pour piscine, plage ou espace chill-out. Matières et couleurs : bois, beige.
 
 Sur devis
 
 ### Banc FARI
 
-Banc pour cérémonies, tables d'hôtes ou espaces d'attente. Matières et couleurs: bois.
+Banc pour cérémonies, tables d'hôtes ou espaces d'attente. Matières et couleurs : bois.
 
 Sur devis
 
 ### Banc WOOD
 
-Banc pour cérémonies, tables d'hôtes ou espaces d'attente. Matières et couleurs: bois.
+Banc pour cérémonies, tables d'hôtes ou espaces d'attente. Matières et couleurs : bois.
 
 Sur devis
 
@@ -132,19 +132,19 @@ Sur devis
 
 ### Ottomane RUFF
 
-Assise basse rembourrée pour salons et espaces lounge. Matières et couleurs: ivoire.
+Assise basse rembourrée pour salons et espaces lounge. Matières et couleurs : ivoire.
 
 Sur devis
 
 ### Pouf WILA
 
-Pouf pour salons marocains et espaces détente. Matières et couleurs: blanc, cuir.
+Pouf pour salons marocains et espaces détente. Matières et couleurs : blanc, cuir.
 
 Sur devis
 
 ### Pouf BENI
 
-Pouf pour salons marocains et espaces détente. Matières et couleurs: blanc, noir.
+Pouf pour salons marocains et espaces détente. Matières et couleurs : blanc, noir.
 
 Sur devis
 
@@ -156,25 +156,25 @@ Sur devis
 
 ### Parasol KWAN
 
-Parasol décoratif pour l'ombre en journée. Matières et couleurs: ivoire, blanc, beige.
+Parasol décoratif pour l'ombre en journée. Matières et couleurs : ivoire, blanc, beige.
 
 Sur devis
 
 ### Parasol BEGGY
 
-Parasol décoratif pour l'ombre en journée. Matières et couleurs: ivoire, blanc, beige.
+Parasol décoratif pour l'ombre en journée. Matières et couleurs : ivoire, blanc, beige.
 
 Sur devis
 
 ### Parasol WAVY
 
-Parasol décoratif pour l'ombre en journée. Matières et couleurs: blanc, noir.
+Parasol décoratif pour l'ombre en journée. Matières et couleurs : blanc, noir.
 
 Sur devis
 
 ### Parasol RUFFLE
 
-Parasol décoratif pour l'ombre en journée. Matières et couleurs: blanc, bois.
+Parasol décoratif pour l'ombre en journée. Matières et couleurs : blanc, bois.
 
 Sur devis
 
@@ -186,25 +186,25 @@ Sur devis
 
 ### Cabine DJ MORO
 
-Cabine DJ habillée, assortie au décor de la soirée. Matières et couleurs: noir, bois.
+Cabine DJ habillée, assortie au décor de la soirée. Matières et couleurs : noir, bois.
 
 Sur devis
 
 ### Bar WHITE
 
-Bar de réception pour cocktails et boissons. Matières et couleurs: blanc, bois.
+Bar de réception pour cocktails et boissons. Matières et couleurs : blanc, bois.
 
 Sur devis
 
 ### Bar BLACK
 
-Bar de réception pour cocktails et boissons. Matières et couleurs: noir, bois.
+Bar de réception pour cocktails et boissons. Matières et couleurs : noir, bois.
 
 Sur devis
 
 ### Bar TATAWI
 
-Bar de réception pour cocktails et boissons. Matières et couleurs: bois.
+Bar de réception pour cocktails et boissons. Matières et couleurs : bois.
 
 Sur devis
 
@@ -216,55 +216,55 @@ Sur devis
 
 ### Bar CARPET
 
-Bar de réception pour cocktails et boissons. Matières et couleurs: marbre, rouge, marron.
+Bar de réception pour cocktails et boissons. Matières et couleurs : marbre, rouge, marron.
 
 Sur devis
 
 ### Cabine DJ CARPET
 
-Cabine DJ habillée, assortie au décor de la soirée. Matières et couleurs: rouge.
+Cabine DJ habillée, assortie au décor de la soirée. Matières et couleurs : rouge.
 
 Sur devis
 
 ### Cabine DJ ZIGZAG BAR /
 
-Cabine DJ habillée, assortie au décor de la soirée. Matières et couleurs: noir, bois.
+Cabine DJ habillée, assortie au décor de la soirée. Matières et couleurs : noir, bois.
 
 Sur devis
 
 ### Cabine DJ MIRROR
 
-Cabine DJ habillée, assortie au décor de la soirée. Matières et couleurs: noir, bois, miroir.
+Cabine DJ habillée, assortie au décor de la soirée. Matières et couleurs : noir, bois, miroir.
 
 Sur devis
 
 ### Cabine DJ SENSLA
 
-Cabine DJ habillée, assortie au décor de la soirée. Matières et couleurs: noir, doré.
+Cabine DJ habillée, assortie au décor de la soirée. Matières et couleurs : noir, doré.
 
 Sur devis
 
 ### Bar APEROL
 
-Bar de réception pour cocktails et boissons. Matières et couleurs: bois, rose.
+Bar de réception pour cocktails et boissons. Matières et couleurs : bois, rose.
 
 Sur devis
 
 ### Mange-debout CAMI
 
-Table haute pour cocktails et apéritifs. Matières et couleurs: bois.
+Table haute pour cocktails et apéritifs. Matières et couleurs : bois.
 
 Sur devis
 
 ### Tabouret haut
 
-Tabouret haut pour bars et mange-debout. Matières et couleurs: bois.
+Tabouret haut pour bars et mange-debout. Matières et couleurs : bois.
 
 Sur devis
 
 ### Table ronde
 
-Table ronde pour dîners assis. Matières et couleurs: blanc.
+Table ronde pour dîners assis. Matières et couleurs : blanc.
 
 Sur devis
 
@@ -276,60 +276,60 @@ Sur devis
 
 ### Table basse BEAG
 
-Table basse pour salons et espaces lounge. Matières et couleurs: bois, beige.
+Table basse pour salons et espaces lounge. Matières et couleurs : bois, beige.
 
 Sur devis
 
 ### Table basse SADI
 
-Table basse pour salons et espaces lounge. Matières et couleurs: noir.
+Table basse pour salons et espaces lounge. Matières et couleurs : noir.
 
 Sur devis
 
 ### Table basse IONA
 
-Table basse pour salons et espaces lounge. Matières et couleurs: blanc.
+Table basse pour salons et espaces lounge. Matières et couleurs : blanc.
 
 Sur devis
 
 ### Scène RONI
 
-Scène modulable pour orchestre, discours ou DJ. Matières et couleurs: blanc, beige.
+Scène modulable pour orchestre, discours ou DJ. Matières et couleurs : blanc, beige.
 
 Sur devis
 
 ### Pupitre CERI
 
-Pupitre pour discours et cérémonies. Matières et couleurs: bois.
+Pupitre pour discours et cérémonies. Matières et couleurs : bois.
 
 Sur devis
 
 ### Pupitre LYRA
 
-Pupitre pour discours et cérémonies. Matières et couleurs: noir, métal.
+Pupitre pour discours et cérémonies. Matières et couleurs : noir, métal.
 
 Sur devis
 
 ### Chauffage d'extérieur HEAT
 
-Chauffage d'extérieur pour les soirées fraîches. Matières et couleurs: noir.
+Chauffage d'extérieur pour les soirées fraîches. Matières et couleurs : noir.
 
 Sur devis
 
 ### Camion-bar DJAMA
 
-Camion vintage transformé en bar ou en stand. Matières et couleurs: marron.
+Camion vintage transformé en bar ou en stand. Matières et couleurs : marron.
 
 Sur devis
 
 ### Bar MIRRO
 
-Bar de réception pour cocktails et boissons. Matières et couleurs: bois, miroir.
+Bar de réception pour cocktails et boissons. Matières et couleurs : bois, miroir.
 
 Sur devis
 
 ### Kiosque NARI
 
-Kiosque pour bar, stand gourmand ou accueil. Matières et couleurs: noir.
+Kiosque pour bar, stand gourmand ou accueil. Matières et couleurs : noir.
 
 Sur devis

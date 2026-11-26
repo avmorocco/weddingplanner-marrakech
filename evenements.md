@@ -54,13 +54,13 @@ Sur Mesure
 
 ## Votre Événement, Conçu pour Vous
 
-Chaque événement est conçu sur mesure: partagez-nous votre brief et nous vous présenterons des références adaptées à votre projet.
+Chaque événement est conçu sur mesure : partagez-nous votre brief et nous vous présenterons des références adaptées à votre projet.
 
 Galas & Soirées en Images
 
 ## Ambiances Signées
 
-Scènes live, mises en lumière et décors immersifs: un aperçu des atmosphères que nous concevons pour vos galas, lancements et soirées privées.
+Scènes live, mises en lumière et décors immersifs : un aperçu des atmosphères que nous concevons pour vos galas, lancements et soirées privées.
 
 Scénographie & Lumière
 

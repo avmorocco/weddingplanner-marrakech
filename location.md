@@ -18,7 +18,7 @@ Catalogue Exclusif Marrakech
 
 **Location Événementielle de Prestige**
 
-Mobilier, tentes, lanternes et bougies, art de la table, linge de table et animations traditionnelles: tout pour habiller vos mariages et réceptions à Marrakech.
+Mobilier, tentes, lanternes et bougies, art de la table, linge de table et animations traditionnelles : tout pour habiller vos mariages et réceptions à Marrakech.
 
 234 articles dans 7 collections
 
@@ -32,7 +32,7 @@ Choisissez une collection pour découvrir ses articles, ajoutez-les à votre dev
 
 ### Tentes & Scénographie
 
-Nos pièces signature: tentes nomades, lustres monumentaux, salons et scènes, pour transformer n'importe quel lieu.
+Nos pièces signature : tentes nomades, lustres monumentaux, salons et scènes, pour transformer n'importe quel lieu.
 
 Voir la collection →
 
@@ -100,18 +100,30 @@ Voir la collection →
 
 Questions Fréquentes
 
-## Louer avec nous: l'essentiel
+## Louer avec nous : l'essentiel
 
 Les réponses aux questions que l'on nous pose le plus souvent avant de réserver du matériel.
 
+### Où livrez-vous ?
+
 Nous livrons à Marrakech et dans tout le Maroc.
 
-Nous conseillons de réserver 3 mois à l'avance. Pour une date plus proche, contactez-nous: nous vérifions les disponibilités.
+### Combien de temps à l'avance faut-il réserver ?
 
-Oui, le montage est compris: nos équipes installent le matériel sur place.
+Nous conseillons de réserver 3 mois à l'avance. Pour une date plus proche, contactez-nous : nous vérifions les disponibilités.
 
-Non, il n'y a pas de minimum de commande: vous pouvez louer un seul article comme une installation complète.
+### Le montage est-il compris ?
+
+Oui, le montage est compris : nos équipes installent le matériel sur place.
+
+### Y a-t-il un minimum de commande ?
+
+Non, il n'y a pas de minimum de commande : vous pouvez louer un seul article comme une installation complète.
+
+### Faut-il verser une caution ?
 
 Non, nous ne demandons pas de caution.
 
-Ajoutez les articles qui vous intéressent avec « + Ajouter au devis», puis envoyez votre demande, ou écrivez-nous directement sur WhatsApp: nous vous répondons avec un devis détaillé.
+### Comment obtenir un prix ?
+
+Ajoutez les articles qui vous intéressent avec « + Ajouter au devis », puis envoyez votre demande, ou écrivez-nous directement sur WhatsApp : nous vous répondons avec un devis détaillé.

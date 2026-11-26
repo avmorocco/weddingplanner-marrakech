@@ -152,13 +152,23 @@ Frequently Asked Questions
 
 Expert answers from our specialists to prepare your Marrakech wedding in complete serenity.
 
+### What is the best time of year to get married in Marrakech?
+
 Spring (April to June) and autumn (September to November) usually bring warm days and mild evenings, ideal for outdoor celebrations. Summer is very hot during the day but pleasant at night, especially in the Agafay Desert.
+
+### How far in advance should we start planning?
 
 To secure the most coveted Palmeraie palaces or private Agafay camps, we recommend 8 to 12 months. However, through our permanent Marrakech team, we frequently craft bespoke luxury weddings in 3 to 4 months.
 
+### How do you handle civil, religious, or symbolic ceremonies?
+
 Many international couples complete their civil marriage in their home country, then celebrate a symbolic, secular or religious ceremony in Marrakech. A civil marriage in Morocco is possible in some cases, but it depends on your nationality, religion and the documents required: we refer you to the relevant professionals (notary, adoul, consulate) to check your situation.
 
+### Do you arrange guest accommodations and logistics?
+
 Absolutely. Our VIP concierge secures preferred group rates across top partner hotels and riads, managing private chauffeured transfers (Mercedes V-Class, luxury sprinters, sedans) from Menara Airport.
+
+### Can we party late into the night?
 
 Yes, many private estates in the Palmeraie and camps in Agafay host dance parties late into the night. Permitted hours and sound levels depend on each venue: we check them with the owner before any booking.
 

@@ -36,13 +36,13 @@ Sur devis
 
 ### Vase LAUD
 
-Vase pour vos compositions florales et centres de table. Matières et couleurs: ivoire, céramique.
+Vase pour vos compositions florales et centres de table. Matières et couleurs : ivoire, céramique.
 
 Sur devis
 
 ### Vase KASBA
 
-Vase pour vos compositions florales et centres de table. Matières et couleurs: beige.
+Vase pour vos compositions florales et centres de table. Matières et couleurs : beige.
 
 Sur devis
 
@@ -54,7 +54,7 @@ Sur devis
 
 ### Vase THIERRY
 
-Vase pour vos compositions florales et centres de table. Matières et couleurs: marron.
+Vase pour vos compositions florales et centres de table. Matières et couleurs : marron.
 
 Sur devis
 
@@ -66,13 +66,13 @@ Sur devis
 
 ### Vase COPPO
 
-Vase pour vos compositions florales et centres de table. Matières et couleurs: cuivre, verre.
+Vase pour vos compositions florales et centres de table. Matières et couleurs : cuivre, verre.
 
 Sur devis
 
 ### Vase SASS
 
-Vase pour vos compositions florales et centres de table. Matières et couleurs: verre, transparent.
+Vase pour vos compositions florales et centres de table. Matières et couleurs : verre, transparent.
 
 Sur devis
 
@@ -84,19 +84,19 @@ Sur devis
 
 ### Paniers RALI
 
-Paniers tressés pour la décoration, le pain ou les cadeaux d'invités. Matières et couleurs: beige.
+Paniers tressés pour la décoration, le pain ou les cadeaux d'invités. Matières et couleurs : beige.
 
 Sur devis
 
 ### Tapis BENI
 
-Tapis pour salons, allées de cérémonie et espaces lounge. Matières et couleurs: blanc, noir.
+Tapis pour salons, allées de cérémonie et espaces lounge. Matières et couleurs : blanc, noir.
 
 Sur devis
 
 ### Tapis CARRY
 
-Tapis pour salons, allées de cérémonie et espaces lounge. Matières et couleurs: rose, rouge.
+Tapis pour salons, allées de cérémonie et espaces lounge. Matières et couleurs : rose, rouge.
 
 Sur devis
 
@@ -108,37 +108,37 @@ Sur devis
 
 ### Chariot BUDDY
 
-Chariot de service pour bar mobile ou desserts. Matières et couleurs: doré.
+Chariot de service pour bar mobile ou desserts. Matières et couleurs : doré.
 
 Sur devis
 
 ### Plateau PONT
 
-Plateau de service et de présentation. Matières et couleurs: argenté.
+Plateau de service et de présentation. Matières et couleurs : argenté.
 
 Sur devis
 
 ### Boule à facettes
 
-Boule à facettes pour la piste de danse. Matières et couleurs: argenté.
+Boule à facettes pour la piste de danse. Matières et couleurs : argenté.
 
 Sur devis
 
 ### Porte-panneau SINO
 
-Support pour panneau de bienvenue, plan de table ou menu. Matières et couleurs: blanc, noir.
+Support pour panneau de bienvenue, plan de table ou menu. Matières et couleurs : blanc, noir.
 
 Sur devis
 
 ### Porte-panneau MARGO
 
-Support pour panneau de bienvenue, plan de table ou menu. Matières et couleurs: métal, transparent.
+Support pour panneau de bienvenue, plan de table ou menu. Matières et couleurs : métal, transparent.
 
 Sur devis
 
 ### Piste de danse
 
-Piste de danse modulable, montée par nos équipes. Matières et couleurs: blanc, noir.
+Piste de danse modulable, montée par nos équipes. Matières et couleurs : blanc, noir.
 
 Sur devis
 
@@ -150,18 +150,18 @@ Sur devis
 
 ### Colonnes SITTI
 
-Colonnes décoratives pour encadrer une entrée ou une arche. Matières et couleurs: bois, beige.
+Colonnes décoratives pour encadrer une entrée ou une arche. Matières et couleurs : bois, beige.
 
 Sur devis
 
 ### Lumière décorative SUNS
 
-Luminaire décoratif pour créer un point focal. Matières et couleurs: blanc, noir.
+Luminaire décoratif pour créer un point focal. Matières et couleurs : blanc, noir.
 
 Sur devis
 
 ### Décor flottant POMMI
 
-Éléments flottants pour décorer piscines et bassins. Matières et couleurs: rouge.
+Éléments flottants pour décorer piscines et bassins. Matières et couleurs : rouge.
 
 Sur devis

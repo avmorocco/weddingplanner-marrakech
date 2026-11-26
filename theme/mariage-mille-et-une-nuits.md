@@ -26,7 +26,7 @@ L'Histoire du Thème
 
 Conçu pour les couples désireux d'offrir à leurs convives une immersion théâtrale grandiose, ce thème rend hommage à la splendeur des grandes dynasties marocaines.
 
-Dans les salons monumentaux ou les jardins palatiaux de la Palmeraie, nous orchestrons une véritable féerie: lustres géants en laiton ciselé à la main, voûtes habillées de tentures de velours et de soie mordorée, chemins de table scintillants d'argenterie et cascades florales de roses rouges et d'orchidées rares.
+Dans les salons monumentaux ou les jardins palatiaux de la Palmeraie, nous orchestrons une véritable féerie : lustres géants en laiton ciselé à la main, voûtes habillées de tentures de velours et de soie mordorée, chemins de table scintillants d'argenterie et cascades florales de roses rouges et d'orchidées rares.
 
 L'entrée des mariés portée dans l'amariya traditionnelle sculptée en argent, sous les chants polyphoniques des confréries soufies et les applaudissements des invités, marque l'apogée d'une soirée inoubliable.
 
@@ -44,7 +44,7 @@ Inspirations Orientales
 
 ## Souks, Lanternes & Velours
 
-Allées de tapis, ciels de lanternes en laiton et velours profonds: les matières qui donnent vie à une célébration Mille et Une Nuits.
+Allées de tapis, ciels de lanternes en laiton et velours profonds : les matières qui donnent vie à une célébration Mille et Une Nuits.
 
 Scénographie & Lumière
 

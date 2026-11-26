@@ -104,14 +104,26 @@ Frequently Asked Questions
 
 Answers to the questions we are asked most often before booking equipment.
 
+### Where do you deliver?
+
 We deliver in Marrakech and throughout Morocco.
+
+### How far in advance should we book?
 
 We recommend booking 3 months in advance. For a closer date, contact us and we will check availability.
 
+### Is set-up included?
+
 Yes, set-up is included: our team installs the equipment on site.
+
+### Is there a minimum order?
 
 No, there is no minimum order: you can rent a single item or a complete installation.
 
+### Do you require a deposit?
+
 No, we do not require a security deposit.
+
+### How do I get a price?
 
 Add the items you like with “+ Add to quote”, then send your request, or message us directly on WhatsApp: we will reply with a detailed quote.
