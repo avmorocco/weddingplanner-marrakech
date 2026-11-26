@@ -1165,36 +1165,37 @@ function initQuoteModal() {
     }
     quoteForm.addEventListener('submit', (e) => {
       e.preventDefault();
-      const val = (id, d) => { const el = document.querySelector(id); return (el && el.value) ? el.value : d; };
       const isEn = (document.documentElement.lang === 'en') || window.location.pathname.includes('/en/');
-      const lines = isEn ? [
-        'Name: ' + val('#quoteName', ''), 'Phone / WhatsApp: ' + val('#quotePhone', ''),
-        'Event type: ' + val('#quoteEventType', 'Wedding'), 'Preferred date: ' + val('#quoteDate', 'TBD'),
-        'Guests: ' + val('#quoteGuests', 'Not specified'), 'Venue: ' + val('#quoteLocation', 'Marrakech'),
-        'Budget: ' + val('#quoteBudget', 'To be discussed'), 'Email: ' + val('#quoteEmail', ''), '', 'Details: ' + val('#quoteNotes', '')
-      ] : [
-        'Nom : ' + val('#quoteName', ''), 'Téléphone / WhatsApp : ' + val('#quotePhone', ''),
-        "Type d'événement : " + val('#quoteEventType', 'Mariage'), 'Date souhaitée : ' + val('#quoteDate', 'À définir'),
-        "Nombre d'invités : " + val('#quoteGuests', 'Non précisé'), 'Lieu envisagé : ' + val('#quoteLocation', 'Marrakech'),
-        'Budget estimé : ' + val('#quoteBudget', 'À convenir'), 'E-mail : ' + val('#quoteEmail', ''), '', 'Détails : ' + val('#quoteNotes', '')
-      ];
+      // Read every filled field of THIS form (the modal and page forms differ from page to page).
+      const pick = (sel) => { const el = quoteForm.querySelector(sel); return (el && el.value) ? el.value.trim() : ''; };
+      const labelOf = (el) => {
+        const g = el.closest('.form-group');
+        const l = g && g.querySelector('.form-label, label');
+        return (l ? l.textContent : (el.getAttribute('placeholder') || el.name || el.id || 'Champ')).replace(/\s+/g, ' ').trim();
+      };
+      const lines = [];
+      quoteForm.querySelectorAll('input, select, textarea').forEach(el => {
+        if (el.name === 'site_web' || el.type === 'hidden' || el.type === 'submit' || el.type === 'button') return;
+        const v = (el.value || '').trim();
+        if (v) lines.push(labelOf(el) + ' : ' + v);
+      });
+      const nom = pick('#quoteName') || pick('input[type="text"]');
+      const telephone = pick('#quotePhone') || pick('input[type="tel"]');
+      const email = pick('#quoteEmail') || pick('input[type="email"]');
       const subject = isEn ? 'Quote request – Wedding Planner Marrakech' : 'Demande de devis – Wedding Planner Marrakech';
       const openMailApp = () => {
         trackEvent('generate_lead', { method: 'quote_form_email' });
-        window.location.href = 'mailto:ocrewedding.marrakech@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
+        const body = lines.concat(['', (isEn ? 'Page: ' : 'Page : ') + window.location.href]).join('\n');
+        window.location.href = 'mailto:ocrewedding.marrakech@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
         if (typeof closeModal === 'function') closeModal();
       };
 
       const data = new FormData();
-      data.append('nom', val('#quoteName', ''));
-      data.append('telephone', val('#quotePhone', ''));
-      data.append('email', val('#quoteEmail', ''));
-      data.append('type', val('#quoteEventType', ''));
-      data.append('date', val('#quoteDate', ''));
-      data.append('invites', val('#quoteGuests', ''));
-      data.append('lieu', val('#quoteLocation', ''));
-      data.append('budget', val('#quoteBudget', ''));
-      data.append('details', val('#quoteNotes', ''));
+      data.append('nom', nom);
+      data.append('telephone', telephone);
+      data.append('email', email);
+      data.append('details', lines.join('\n'));
+      data.append('page', window.location.href);
       data.append('langue', isEn ? 'en' : 'fr');
       const trapEl = quoteForm.querySelector('[name="site_web"]');
       data.append('site_web', trapEl ? trapEl.value : '');

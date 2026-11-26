@@ -29,39 +29,35 @@ function champ($nom, $max = 500) {
 $nom     = champ('nom', 120);
 $tel     = champ('telephone', 40);
 $email   = champ('email', 160);
-$type    = champ('type', 120);
-$date    = champ('date', 40);
-$invites = champ('invites', 80);
-$lieu    = champ('lieu', 120);
-$budget  = champ('budget', 80);
-$details = champ('details', 4000);
+$details = champ('details', 6000);
+$page    = champ('page', 300);
 $langue  = champ('langue', 5) === 'en' ? 'en' : 'fr';
+$emailOk = filter_var($email, FILTER_VALIDATE_EMAIL) !== false;
 
-if ($nom === '' || $tel === '' || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+// The forms differ by page: a phone number or a valid e-mail is enough to reply.
+if (($nom === '' && $tel === '') || ($tel === '' && !$emailOk)) {
     http_response_code(422);
     echo json_encode(['ok' => false, 'error' => 'champs']);
     exit;
 }
 
-$sujet = 'Demande de devis : ' . $nom . ($date !== '' ? ' (' . $date . ')' : '');
+$sujet = 'Demande de devis : ' . ($nom !== '' ? $nom : $tel);
 $corps = "Nouvelle demande de devis depuis le site (" . strtoupper($langue) . ")\n\n"
        . "Nom : $nom\n"
        . "Téléphone / WhatsApp : $tel\n"
-       . "E-mail : $email\n"
-       . "Type d'événement : $type\n"
-       . "Date souhaitée : $date\n"
-       . "Nombre d'invités : $invites\n"
-       . "Lieu envisagé : $lieu\n"
-       . "Budget estimé : $budget\n\n"
-       . "Détails :\n$details\n";
+       . "E-mail : " . ($emailOk ? $email : '(non fourni)') . "\n\n"
+       . "Formulaire :\n$details\n\n"
+       . "Page : $page\n";
 
 $entetes = [
     'From: Wedding Planner Marrakech <' . $EXPEDITEUR . '>',
-    'Reply-To: ' . $email,
     'MIME-Version: 1.0',
     'Content-Type: text/plain; charset=UTF-8',
     'Content-Transfer-Encoding: 8bit',
 ];
+if ($emailOk) {
+    $entetes[] = 'Reply-To: ' . $email;
+}
 
 $ok = mail(
     $DESTINATAIRE,
