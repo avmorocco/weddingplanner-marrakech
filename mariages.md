@@ -162,7 +162,7 @@ Pour privatiser les palais les plus demandés de la Palmeraie ou les campements 
 
 ### Comment gérez-vous les démarches légales et religieuses ?
 
-Beaucoup de couples étrangers se marient civilement dans leur pays, puis célèbrent à Marrakech une cérémonie symbolique, laïque ou religieuse. Un mariage civil au Maroc est possible dans certains cas, mais il dépend de votre nationalité, de votre religion et des documents exigés : nous vous orientons vers les professionnels compétents (notaire, adoul, consulat) pour vérifier votre situation.
+Beaucoup de couples étrangers se marient civilement dans leur pays, puis célèbrent à Marrakech une cérémonie symbolique, laïque ou religieuse. Un mariage civil au Maroc est possible dans certains cas, mais il dépend de votre nationalité, de votre religion et des documents exigés : nous vous orientons vers les professionnels compétents (notaire, adoul, consulat) pour vérifier votre situation. Voir notre [guide pour se marier au Maroc](https://www.weddingplanner-marrakech.com/guide/se-marier-au-maroc.html).
 
 ### Prenez-vous en charge l'hébergement et les transports des invités ?
 

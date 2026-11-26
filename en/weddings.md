@@ -162,7 +162,7 @@ To secure the most coveted Palmeraie palaces or private Agafay camps, we recomme
 
 ### How do you handle civil, religious, or symbolic ceremonies?
 
-Many international couples complete their civil marriage in their home country, then celebrate a symbolic, secular or religious ceremony in Marrakech. A civil marriage in Morocco is possible in some cases, but it depends on your nationality, religion and the documents required: we refer you to the relevant professionals (notary, adoul, consulate) to check your situation.
+Many international couples complete their civil marriage in their home country, then celebrate a symbolic, secular or religious ceremony in Marrakech. A civil marriage in Morocco is possible in some cases, but it depends on your nationality, religion and the documents required: we refer you to the relevant professionals (notary, adoul, consulate) to check your situation. See our [guide to getting married in Morocco](https://www.weddingplanner-marrakech.com/en/guide/getting-married-in-morocco.html).
 
 ### Do you arrange guest accommodations and logistics?
 
