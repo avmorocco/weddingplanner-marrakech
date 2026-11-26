@@ -361,4 +361,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://www.weddingplanner-marrakech.com/guide/se-marier-au-maroc.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.weddingplanner-marrakech.com/guide/se-marier-au-maroc.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.weddingplanner-marrakech.com/guide/se-marier-au-maroc.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.weddingplanner-marrakech.com/en/guide/getting-married-in-morocco.html"/>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.weddingplanner-marrakech.com/en/guide/getting-married-in-morocco.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.weddingplanner-marrakech.com/guide/se-marier-au-maroc.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.weddingplanner-marrakech.com/guide/se-marier-au-maroc.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.weddingplanner-marrakech.com/en/guide/getting-married-in-morocco.html"/>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
