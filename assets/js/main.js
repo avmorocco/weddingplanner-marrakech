@@ -489,6 +489,8 @@ const dict_fr_to_en = {
   "ocrewedding.marrakech@gmail.com": "ocrewedding.marrakech@gmail.com",
   "Catalogue Exclusif Marrakech": "Exclusive Marrakech Catalogue",
   "Location Événementielle de Prestige": "Luxury Event Rentals",
+  "Location de mobilier et matériel événementiel à Marrakech": "Event Furniture & Equipment Rental in Marrakech",
+  "Location de mobilier et chaises à Marrakech": "Event Furniture & Chair Rental in Marrakech",
   "Mobilier haute couture, tentes caïdales et nomades, lustres monumentaux et art de la table raffiné pour sublimer vos réceptions privées et mariages.": "Haute-couture furniture, caidal and stretch nomadic tents, monumental chandeliers, and fine tableware to elevate your private celebrations and weddings.",
   "Tous les articles": "All items",
   "Mobilier & Assises": "Furniture & Seating",

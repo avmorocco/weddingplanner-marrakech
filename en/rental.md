@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Exclusive Marrakech Catalogue
 
-**Luxury Event Rentals**
+**Event Furniture & Equipment Rental in Marrakech**
 
 Furniture, tents, lanterns and candles, tableware, table linen and traditional entertainment: everything to dress your weddings and receptions in Marrakech.
 

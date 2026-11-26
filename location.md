@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Catalogue Exclusif Marrakech
 
-**Location Événementielle de Prestige**
+**Location de mobilier et matériel événementiel à Marrakech**
 
 Mobilier, tentes, lanternes et bougies, art de la table, linge de table et animations traditionnelles : tout pour habiller vos mariages et réceptions à Marrakech.
 
