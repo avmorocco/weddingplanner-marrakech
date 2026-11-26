@@ -1,0 +1,10 @@
+# legal
+
+[Site content map](https://www.weddingplanner-marrakech.com/sitemap.md)
+
+- [Mentions Légales – Wedding Planner Marrakech SARL](https://www.weddingplanner-marrakech.com/mentions-legales.md): Mentions légales, éditeur du site, hébergement et propriété intellectuelle de la société Wedding Planner Marrakech SARL. (fr); [canonical page](https://www.weddingplanner-marrakech.com/mentions-legales.html).
+- [Legal Notice & Imprint – Wedding Planner Marrakech SARL](https://www.weddingplanner-marrakech.com/en/legal-notice.md): Legal notice, site publisher details, hosting and intellectual property information for Wedding Planner Marrakech SARL. (en); [canonical page](https://www.weddingplanner-marrakech.com/en/legal-notice.html).
+- [Politique de Confidentialité & Protection des Données – Wedding Planner Marrakech](https://www.weddingplanner-marrakech.com/confidentialite.md): Engagements de discrétion, conformité RGPD et loi marocaine 09-08 pour la protection des données personnelles de nos mariés et de leurs convives. (fr); [canonical page](https://www.weddingplanner-marrakech.com/confidentialite.html).
+- [Privacy Policy & Data Protection – Wedding Planner Marrakech](https://www.weddingplanner-marrakech.com/en/privacy-policy.md): Client confidentiality commitment, GDPR and Moroccan Law 09-08 compliance for personal data protection by Wedding Planner Marrakech. (en); [canonical page](https://www.weddingplanner-marrakech.com/en/privacy-policy.html).
+- [Gestion des Cookies & Préférences – Wedding Planner Marrakech](https://www.weddingplanner-marrakech.com/cookies.md): Informations sur l'utilisation des cookies techniques essentiels et le respect de votre vie privée sur le site Wedding Planner Marrakech. (fr); [canonical page](https://www.weddingplanner-marrakech.com/cookies.html).
+- [Cookie Policy & Privacy Preferences – Wedding Planner Marrakech](https://www.weddingplanner-marrakech.com/en/cookies.md): Information regarding essential technical cookies and browser privacy preferences for Wedding Planner Marrakech. (en); [canonical page](https://www.weddingplanner-marrakech.com/en/cookies.html).

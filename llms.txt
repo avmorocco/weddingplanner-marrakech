@@ -1,0 +1,23 @@
+# Wedding Planner Marrakech
+
+> Wedding planner and event designer in Marrakech, Morocco: bespoke luxury weddings (Agafay desert, Palmeraie palaces, Medina riads), corporate events and galas, and event furniture, lighting and decor rental. Bilingual French/English site. Contact: ocrewedding.marrakech@gmail.com, phone/WhatsApp +212 656 394 642.
+
+Inventory scope: complete. Content is maintained by Wedding Planner Marrakech (site owner).
+
+If you are an LLM looking for site information, use the [content map](https://www.weddingplanner-marrakech.com/sitemap.md) to locate the relevant topic and its linked Markdown answer.
+Use that document's cited sources and canonical page; if the requested information is absent, report that gap.
+
+## Content map
+
+- [Site content map](https://www.weddingplanner-marrakech.com/sitemap.md): All public document destinations within the declared inventory.
+
+## Topics
+
+- [contact](https://www.weddingplanner-marrakech.com/llm/topics/contact.md): All public contact documents in this inventory.
+- [events](https://www.weddingplanner-marrakech.com/llm/topics/events.md): All public events documents in this inventory.
+- [gallery](https://www.weddingplanner-marrakech.com/llm/topics/gallery.md): All public gallery documents in this inventory.
+- [home](https://www.weddingplanner-marrakech.com/llm/topics/home.md): All public home documents in this inventory.
+- [legal](https://www.weddingplanner-marrakech.com/llm/topics/legal.md): All public legal documents in this inventory.
+- [rental](https://www.weddingplanner-marrakech.com/llm/topics/rental.md): All public rental documents in this inventory.
+- [themes](https://www.weddingplanner-marrakech.com/llm/topics/themes.md): All public themes documents in this inventory.
+- [weddings](https://www.weddingplanner-marrakech.com/llm/topics/weddings.md): All public weddings documents in this inventory.

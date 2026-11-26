@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 64" width="370" height="64" fill="none">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&amp;family=Plus+Jakarta+Sans:wght@400;500;600&amp;display=swap');
+      .title-text-light {
+        font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+        font-size: 21px;
+        font-weight: 500;
+        letter-spacing: 0.16em;
+        fill: #FBF8F3;
+      }
+      .city-text-light {
+        font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+        font-size: 9px;
+        font-weight: 600;
+        letter-spacing: 0.42em;
+        fill: #D4AF37;
+      }
+      .sub-text-light {
+        font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+        font-size: 7.5px;
+        font-weight: 400;
+        letter-spacing: 0.22em;
+        fill: #D8D2C9;
+      }
+    </style>
+    <!-- Dégradé or luxe métallique lumineux -->
+    <linearGradient id="goldGradLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="35%" stop-color="#F3E5AB"/>
+      <stop offset="70%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA771C"/>
+    </linearGradient>
+    <linearGradient id="goldLineLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#F3E5AB" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- SYMBOLE ÉBLOUISSANT : ARCHE MAROCAINE & ALLIANCES (X: 4 à 58) -->
+  <g transform="translate(6, 4)">
+    <!-- Fond subtil de l'emblème -->
+    <circle cx="28" cy="28" r="26" fill="rgba(255,255,255,0.06)" stroke="url(#goldGradLight)" stroke-width="0.8" stroke-opacity="0.6"/>
+    <circle cx="28" cy="28" r="23.5" fill="none" stroke="url(#goldGradLight)" stroke-width="0.5" stroke-dasharray="2 2" stroke-opacity="0.75"/>
+
+    <!-- Arche Mauresque Royale de Marrakech -->
+    <path d="M28 8 C31 13 36 17 41 21 C43 23 44 26 44 30 C44 36 41 41 38 45 L38 48 L18 48 L18 45 C15 41 12 36 12 30 C12 26 13 23 15 21 C20 17 25 13 28 8 Z" 
+          fill="none" stroke="url(#goldGradLight)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Ligne intérieure fine de l'arche -->
+    <path d="M28 11 C30 15 34 18 38 22 C39.5 24 40.5 26.5 40.5 30 C40.5 34.5 38 39 35 43 L21 43 C18 39 15.5 34.5 15.5 30 C15.5 26.5 16.5 24 18 22 C22 18 26 15 28 11 Z" 
+          fill="none" stroke="url(#goldGradLight)" stroke-width="0.6" stroke-opacity="0.85"/>
+
+    <!-- Étoile d'Orient à 8 branches (Sommet) -->
+    <g transform="translate(28, 17) scale(0.75)">
+      <path d="M0 -5 L1.2 -1.2 L5 0 L1.2 1.2 L0 5 L-1.2 1.2 L-5 0 L-1.2 -1.2 Z" fill="url(#goldGradLight)"/>
+      <circle cx="0" cy="0" r="0.8" fill="#FBF8F3"/>
+    </g>
+
+    <!-- Deux Alliances Entrelacées (Symbole Mariage) -->
+    <!-- Anneau gauche -->
+    <circle cx="24.5" cy="32.5" r="6.2" fill="none" stroke="url(#goldGradLight)" stroke-width="1.5"/>
+    <!-- Anneau droite -->
+    <circle cx="31.5" cy="32.5" r="6.2" fill="none" stroke="#FBF8F3" stroke-width="1.3"/>
+    <path d="M28 27.5 A6.2 6.2 0 0 1 30.7 32.5" fill="none" stroke="url(#goldGradLight)" stroke-width="1.5"/>
+    
+    <!-- Éclat diamant -->
+    <polygon points="24.5,25.2 25.5,26.3 24.5,27.4 23.5,26.3" fill="url(#goldGradLight)"/>
+  </g>
+
+  <!-- TYPOGRAPHIE ÉDITORIALE LUXE (X: 74 -> ...) -->
+  <g transform="translate(74, 0)">
+    <!-- WEDDING PLANNER -->
+    <text x="0" y="27" class="title-text-light">WEDDING PLANNER</text>
+
+    <!-- Ligne fine dorée décorative -->
+    <line x1="1" y1="36" x2="275" y2="36" stroke="url(#goldLineLight)" stroke-width="0.8"/>
+    <circle cx="138" cy="36" r="1.5" fill="url(#goldGradLight)"/>
+
+    <!-- MARRAKECH & SOUS-TITRE -->
+    <text x="0" y="50" class="city-text-light">MARRAKECH</text>
+    <text x="116" y="50" class="sub-text-light">• HAUTE SCÉNOGRAPHIE</text>
+  </g>
+</svg>

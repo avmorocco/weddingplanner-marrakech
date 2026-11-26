@@ -1,0 +1,10 @@
+# Robots.txt for Wedding Planner Marrakech
+# https://www.weddingplanner-marrakech.com/
+#
+# LLM / AI readers: a plain-Markdown guide to this site is at
+# https://www.weddingplanner-marrakech.com/llms.txt (map: /sitemap.md)
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.weddingplanner-marrakech.com/sitemap.xml

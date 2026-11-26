@@ -1,0 +1,78 @@
+# ==========================================================================
+# Wedding Planner Marrakech: Apache rules (SEO canonicalisation + speed + security)
+# Canonical origin: https://www.weddingplanner-marrakech.com
+# If the server returns "500 Internal Server Error" after upload, the host
+# probably forbids the "Options" line: put a # in front of it and reload.
+# ==========================================================================
+
+Options -MultiViews -Indexes
+DirectoryIndex index.html
+AddDefaultCharset UTF-8
+ErrorDocument 404 /404.html
+
+<IfModule mod_mime.c>
+  AddType text/markdown .md
+  AddCharset utf-8 .md .txt .html .css .js .xml .svg .json
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # 1. Single host: apex -> www (and any other alias), always over HTTPS
+  RewriteCond %{HTTP_HOST} !^www\.weddingplanner-marrakech\.com$ [NC]
+  RewriteRule ^ https://www.weddingplanner-marrakech.com%{REQUEST_URI} [R=301,L,NE]
+
+  # 2. HTTP -> HTTPS (the X-Forwarded-Proto check avoids loops behind a proxy/CDN)
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteRule ^ https://www.weddingplanner-marrakech.com%{REQUEST_URI} [R=301,L,NE]
+
+  # 3. /index.html and /en/index.html -> clean directory URLs
+  RewriteCond %{THE_REQUEST} \s/+((?:[^\s?]*/)?)index\.html[\s?] [NC]
+  RewriteRule ^ https://www.weddingplanner-marrakech.com/%1 [R=301,L,NE]
+
+  # 4. Directory without trailing slash (/en) -> /en/ (replaces Apache's
+  #    DirectorySlash redirect, which leaked ":443" and the apex host)
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^(.+[^/])$ https://www.weddingplanner-marrakech.com/$1/ [R=301,L,NE]
+
+  # 4b. Removed team pages -> home pages
+  RewriteRule ^equipe\.(html|md)$ https://www.weddingplanner-marrakech.com/ [R=301,L,NE]
+  RewriteRule ^en/team\.(html|md)$ https://www.weddingplanner-marrakech.com/en/ [R=301,L,NE]
+
+  # 5. Extension-less URLs (/mariages) -> real page (/mariages.html)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.+)$ https://www.weddingplanner-marrakech.com/$1.html [R=301,L,NE]
+</IfModule>
+DirectorySlash Off
+
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000" "expr=%{HTTPS} == 'on' || %{HTTP:X-Forwarded-Proto} == 'https'"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  <FilesMatch "\.md$">
+    Header set X-Robots-Tag "noindex"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/markdown text/xml application/xml application/javascript application/json image/svg+xml
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 hour"
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType text/markdown "access plus 1 hour"
+  ExpiresByType text/css "access plus 7 days"
+  ExpiresByType application/javascript "access plus 7 days"
+  ExpiresByType image/jpeg "access plus 30 days"
+  ExpiresByType image/png "access plus 30 days"
+  ExpiresByType image/webp "access plus 30 days"
+  ExpiresByType image/svg+xml "access plus 30 days"
+  ExpiresByType image/x-icon "access plus 30 days"
+</IfModule>
