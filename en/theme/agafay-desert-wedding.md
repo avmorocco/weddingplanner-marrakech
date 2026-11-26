@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Signature Scenography 02
 
-**Agafay Desert Wedding**
+**Agafay Desert Wedding in Marrakech**
 
 A timeless celebration amidst mineral hills, where the serene silence of the desert deepens the emotion of your vows.
 

@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Thème Scénographique 01
 
-**Bohème Champêtre**
+**Mariage bohème champêtre à Marrakech**
 
 L'alliance poétique des matières brutes et de la nature sauvage marocaine, sous les ombrages centenaires d'une oliveraie de la Palmeraie.
 

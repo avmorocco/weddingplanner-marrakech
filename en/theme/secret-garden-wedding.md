@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Signature Scenography 03
 
-**Secret Garden**
+**Secret Garden Riad Wedding in Marrakech**
 
 An enchanted interlude in a historic riad, between murmuring spring fountains and blossoming citrus aromas.
 

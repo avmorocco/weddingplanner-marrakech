@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Thème Scénographique 04
 
-**Mille et Une Nuits**
+**Mariage Mille et Une Nuits à Marrakech**
 
 Le faste des palais d'Orient et l'enchantement des légendes califales réinventés avec la sophistication du luxe contemporain.
 

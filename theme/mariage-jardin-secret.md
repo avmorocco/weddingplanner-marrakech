@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Thème Scénographique 03
 
-**Jardin Secret**
+**Mariage jardin secret en riad à Marrakech**
 
 Une parenthèse enchantée au creux d'un riad historique, entre murmures de fontaines d'eau vive et parfums d'agrumes en fleurs.
 
