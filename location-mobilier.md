@@ -1,10 +1,10 @@
-# Mobilier – Location événementielle à Marrakech
+# Location de mobilier et chaises pour événements à Marrakech
 
-Canonical: [Mobilier – Location événementielle à Marrakech](https://www.weddingplanner-marrakech.com/location-mobilier.html)
+Canonical: [Location de mobilier et chaises pour événements à Marrakech](https://www.weddingplanner-marrakech.com/location-mobilier.html)
 
 Locale: fr
 
-Purpose: Location mobilier à Marrakech : chaises, fauteuils lounge, lits de jour, poufs, bars, cabines DJ, tables et scènes.
+Purpose: Location de chaises, fauteuils lounge, lits de jour, poufs, bars, cabines DJ et tables pour mariages et événements à Marrakech. Livraison dans tout le Maroc, montage compris.
 
 Content updated: 2026-11-26
 
@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Catalogue Exclusif Marrakech
 
-**Mobilier**
+**Location de mobilier et chaises à Marrakech**
 
 Chaises, fauteuils lounge, lits de jour, poufs, bars, cabines DJ, tables et scènes.
 
@@ -333,3 +333,39 @@ Sur devis
 Kiosque pour bar, stand gourmand ou accueil. Matières et couleurs : noir.
 
 Sur devis
+
+Bon à savoir
+
+## Asseoir, recevoir, faire la fête
+
+Chaises pour la cérémonie et le dîner, fauteuils lounge et lits de jour pour les salons, bars et mange-debout pour le cocktail, cabines DJ pour la soirée : cette collection couvre tout le mobilier d'un mariage, d'un dîner de gala ou d'une soirée privée à Marrakech.
+
+Chaque modèle se loue seul ou avec le reste de notre catalogue, et nos équipes l'installent sur place.
+
+[Tentes & Scénographie](https://www.weddingplanner-marrakech.com/location-tentes-scenographie.html) · [Art de la Table](https://www.weddingplanner-marrakech.com/location-art-de-la-table.html) · [Décoration](https://www.weddingplanner-marrakech.com/location-decoration.html) · [Toutes les collections](https://www.weddingplanner-marrakech.com/location.html)
+
+## Questions fréquentes
+
+### Où livrez-vous ?
+
+Nous livrons à Marrakech et dans tout le Maroc.
+
+### Combien de temps à l'avance faut-il réserver ?
+
+Nous conseillons de réserver 3 mois à l'avance. Pour une date plus proche, contactez-nous : nous vérifions les disponibilités.
+
+### Le montage est-il compris ?
+
+Oui, le montage est compris : nos équipes installent le matériel sur place.
+
+### Y a-t-il un minimum de commande ?
+
+Non, il n'y a pas de minimum de commande : vous pouvez louer un seul article comme une installation complète.
+
+### Faut-il verser une caution ?
+
+Non, nous ne demandons pas de caution.
+
+### Comment obtenir un prix ?
+
+Ajoutez les articles qui vous intéressent avec « + Ajouter au devis », puis envoyez votre demande, ou écrivez-nous directement sur WhatsApp : nous vous répondons avec un devis détaillé.

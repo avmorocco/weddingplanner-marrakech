@@ -1,10 +1,10 @@
-# Furniture – Event Rental in Marrakech
+# Event Furniture & Chair Rental in Marrakech
 
-Canonical: [Furniture – Event Rental in Marrakech](https://www.weddingplanner-marrakech.com/en/rental-furniture.html)
+Canonical: [Event Furniture & Chair Rental in Marrakech](https://www.weddingplanner-marrakech.com/en/rental-furniture.html)
 
 Locale: en
 
-Purpose: Furniture for rent in Marrakech: chairs, lounge chairs, day beds, poufs, bars, DJ booths, tables and stages.
+Purpose: Rent chairs, lounge chairs, day beds, poufs, bars, DJ booths and tables for weddings and events in Marrakech. Delivery across Morocco, set-up included.
 
 Content updated: 2026-11-26
 
@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Exclusive Marrakech Catalogue
 
-**Furniture**
+**Event Furniture & Chair Rental in Marrakech**
 
 Chairs, lounge chairs, day beds, poufs, bars, DJ booths, tables and stages.
 
@@ -333,3 +333,39 @@ On request
 Kiosk for a bar, food stand or welcome desk. Materials and colours: black.
 
 On request
+
+Good to know
+
+## Seat, welcome, celebrate
+
+Chairs for the ceremony and dinner, lounge chairs and day beds for the lounges, bars and high tables for the cocktail hour, DJ booths for the party: this collection covers all the furniture for a wedding, a gala dinner or a private party in Marrakech.
+
+Every piece can be rented on its own or with the rest of our catalogue, and our team installs it on site.
+
+[Tents & Staging](https://www.weddingplanner-marrakech.com/en/rental-tents-staging.html) · [Tableware](https://www.weddingplanner-marrakech.com/en/rental-tableware.html) · [Decor](https://www.weddingplanner-marrakech.com/en/rental-decor.html) · [All collections](https://www.weddingplanner-marrakech.com/en/rental.html)
+
+## Frequently asked questions
+
+### Where do you deliver?
+
+We deliver in Marrakech and throughout Morocco.
+
+### How far in advance should we book?
+
+We recommend booking 3 months in advance. For a closer date, contact us and we will check availability.
+
+### Is set-up included?
+
+Yes, set-up is included: our team installs the equipment on site.
+
+### Is there a minimum order?
+
+No, there is no minimum order: you can rent a single item or a complete installation.
+
+### Do you require a deposit?
+
+No, we do not require a security deposit.
+
+### How do I get a price?
+
+Add the items you like with “+ Add to quote”, then send your request, or message us directly on WhatsApp: we will reply with a detailed quote.
