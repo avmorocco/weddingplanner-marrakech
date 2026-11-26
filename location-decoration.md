@@ -8,7 +8,7 @@ Purpose: Location décoration à Marrakech : vases, paniers, tapis, plateaux, n�
 
 Content updated: 2026-11-26
 
-Source revision: sha256:3bc12220322a62b5
+Source revision: sha256:1e3920f5e01184c9
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Vases, paniers, tapis, plateaux, néons, porte-panneaux, piste de danse et boule
 
 ## Décoration
 
-Vases, paniers, tapis, plateaux, néons, porte-panneaux, piste de danse et boule à facettes. Livraison et installation à Marrakech et dans tout le Maroc. Tarifs sur devis.
+Vases, paniers, tapis, plateaux, néons, porte-panneaux, piste de danse et boule à facettes. Livraison à Marrakech et dans tout le Maroc, montage compris. Réservation conseillée 3 mois à l'avance. Tarifs sur devis.
 
 ### Pots FLORI
 

@@ -8,7 +8,7 @@ Purpose: Location animations à Marrakech : musiciens traditionnels, maître de 
 
 Content updated: 2026-11-26
 
-Source revision: sha256:8ddf58228a80b4e3
+Source revision: sha256:8f587fa8efbf2708
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Musiciens traditionnels, maître de thé, danseuses, porteurs d'amariya, groupe 
 
 ## Animations
 
-Musiciens traditionnels, maître de thé, danseuses, porteurs d'amariya, groupe live, food trucks et jeux. Livraison et installation à Marrakech et dans tout le Maroc. Tarifs sur devis.
+Musiciens traditionnels, maître de thé, danseuses, porteurs d'amariya, groupe live, food trucks et jeux. Livraison à Marrakech et dans tout le Maroc, montage compris. Réservation conseillée 3 mois à l'avance. Tarifs sur devis.
 
 ### Musiciens Ahouach
 

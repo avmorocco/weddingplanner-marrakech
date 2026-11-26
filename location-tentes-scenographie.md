@@ -8,7 +8,7 @@ Purpose: Location tentes & scénographie à Marrakech : nos pièces signature : 
 
 Content updated: 2026-11-26
 
-Source revision: sha256:fa8f78f5008416da
+Source revision: sha256:c5812ed8bc7957eb
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Nos pièces signature: tentes nomades, lustres monumentaux, salons et scènes, p
 
 ## Tentes & Scénographie
 
-Nos pièces signature: tentes nomades, lustres monumentaux, salons et scènes, pour transformer n'importe quel lieu. Livraison et installation à Marrakech et dans tout le Maroc. Tarifs sur devis.
+Nos pièces signature: tentes nomades, lustres monumentaux, salons et scènes, pour transformer n'importe quel lieu. Livraison à Marrakech et dans tout le Maroc, montage compris. Réservation conseillée 3 mois à l'avance. Tarifs sur devis.
 
 ### Salon Majlis Lounge Terracotta
 

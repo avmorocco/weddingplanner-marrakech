@@ -8,7 +8,7 @@ Purpose: Location mobilier à Marrakech : chaises, fauteuils lounge, lits de jou
 
 Content updated: 2026-11-26
 
-Source revision: sha256:62f8ee2afbe89499
+Source revision: sha256:2fe51423db30d6fe
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Chaises, fauteuils lounge, lits de jour, poufs, bars, cabines DJ, tables et scè
 
 ## Mobilier
 
-Chaises, fauteuils lounge, lits de jour, poufs, bars, cabines DJ, tables et scènes. Livraison et installation à Marrakech et dans tout le Maroc. Tarifs sur devis.
+Chaises, fauteuils lounge, lits de jour, poufs, bars, cabines DJ, tables et scènes. Livraison à Marrakech et dans tout le Maroc, montage compris. Réservation conseillée 3 mois à l'avance. Tarifs sur devis.
 
 ### Chaise ITALY
 

@@ -8,7 +8,7 @@ Purpose: Tableware for rent in Marrakech: plates, chargers, cutlery, wine glasse
 
 Content updated: 2026-11-26
 
-Source revision: sha256:b93f09c5869355bb
+Source revision: sha256:144cc60280e95207
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Plates, chargers, cutlery, wine glasses, flutes, coupes and hand-blown beldi gla
 
 ## Tableware
 
-Plates, chargers, cutlery, wine glasses, flutes, coupes and hand-blown beldi glasses. Delivery and set-up in Marrakech and throughout Morocco. Prices on request.
+Plates, chargers, cutlery, wine glasses, flutes, coupes and hand-blown beldi glasses. Delivery in Marrakech and throughout Morocco, set-up included. We recommend booking 3 months ahead. Prices on request.
 
 ### Cutlery IRIS
 

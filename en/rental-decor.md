@@ -8,7 +8,7 @@ Purpose: Decor for rent in Marrakech: vases, baskets, rugs, trays, neon signs, s
 
 Content updated: 2026-11-26
 
-Source revision: sha256:28e3c9dab3b6dee4
+Source revision: sha256:e605a98a1c32e5bc
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Vases, baskets, rugs, trays, neon signs, sign stands, dance floor and mirror bal
 
 ## Decor
 
-Vases, baskets, rugs, trays, neon signs, sign stands, dance floor and mirror ball. Delivery and set-up in Marrakech and throughout Morocco. Prices on request.
+Vases, baskets, rugs, trays, neon signs, sign stands, dance floor and mirror ball. Delivery in Marrakech and throughout Morocco, set-up included. We recommend booking 3 months ahead. Prices on request.
 
 ### Pots FLORI
 

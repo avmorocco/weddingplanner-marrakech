@@ -8,7 +8,7 @@ Purpose: Furniture for rent in Marrakech: chairs, lounge chairs, day beds, poufs
 
 Content updated: 2026-11-26
 
-Source revision: sha256:6b007aee511966de
+Source revision: sha256:4357ff06a96692d9
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Chairs, lounge chairs, day beds, poufs, bars, DJ booths, tables and stages.
 
 ## Furniture
 
-Chairs, lounge chairs, day beds, poufs, bars, DJ booths, tables and stages. Delivery and set-up in Marrakech and throughout Morocco. Prices on request.
+Chairs, lounge chairs, day beds, poufs, bars, DJ booths, tables and stages. Delivery in Marrakech and throughout Morocco, set-up included. We recommend booking 3 months ahead. Prices on request.
 
 ### Chair ITALY
 

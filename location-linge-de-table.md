@@ -8,7 +8,7 @@ Purpose: Location linge de table à Marrakech : nappes, housses de mange-debout 
 
 Content updated: 2026-11-26
 
-Source revision: sha256:34a007079e413188
+Source revision: sha256:620a4e743c2d8a81
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Nappes, housses de mange-debout et serviettes, unies, rayées ou brodées, et li
 
 ## Linge de Table
 
-Nappes, housses de mange-debout et serviettes, unies, rayées ou brodées, et linge sur mesure. Livraison et installation à Marrakech et dans tout le Maroc. Tarifs sur devis.
+Nappes, housses de mange-debout et serviettes, unies, rayées ou brodées, et linge sur mesure. Livraison à Marrakech et dans tout le Maroc, montage compris. Réservation conseillée 3 mois à l'avance. Tarifs sur devis.
 
 ### Serviette BIBI
 

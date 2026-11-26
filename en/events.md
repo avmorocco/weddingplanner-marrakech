@@ -8,7 +8,7 @@ Purpose: Prestige corporate event planning in Marrakech: gala dinners, luxury br
 
 Content updated: 2026-11-26
 
-Source revision: sha256:cb8e1c7d413949ab
+Source revision: sha256:ab5a6e15b35950e2
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -30,7 +30,7 @@ Diplomatic discretion, strict protocols, luxury brand staging, and prestigious h
 
 ### Galas & Prestigious Evenings
 
-Seated banquets for up to 500 guests in privatized palaces, immersive architectural lighting, French gueridon silver service, and international performances.
+Seated banquets in privatized palaces, immersive architectural lighting, French gueridon silver service, and international performances.
 
 💎
 

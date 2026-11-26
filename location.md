@@ -8,7 +8,7 @@ Purpose: Location événementielle à Marrakech : tentes, mobilier et assises, l
 
 Content updated: 2026-11-26
 
-Source revision: sha256:561c7383b6fead0d
+Source revision: sha256:ace0eb7a75f78851
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -97,3 +97,21 @@ Musiciens traditionnels, maître de thé, danseuses, porteurs d'amariya, groupe 
 Voir la collection →
 
 ](https://www.weddingplanner-marrakech.com/location-animations.html)
+
+Questions Fréquentes
+
+## Louer avec nous: l'essentiel
+
+Les réponses aux questions que l'on nous pose le plus souvent avant de réserver du matériel.
+
+Nous livrons à Marrakech et dans tout le Maroc.
+
+Nous conseillons de réserver 3 mois à l'avance. Pour une date plus proche, contactez-nous: nous vérifions les disponibilités.
+
+Oui, le montage est compris: nos équipes installent le matériel sur place.
+
+Non, il n'y a pas de minimum de commande: vous pouvez louer un seul article comme une installation complète.
+
+Non, nous ne demandons pas de caution.
+
+Ajoutez les articles qui vous intéressent avec « + Ajouter au devis», puis envoyez votre demande, ou écrivez-nous directement sur WhatsApp: nous vous répondons avec un devis détaillé.

@@ -8,7 +8,7 @@ Purpose: Entertainment for rent in Marrakech: traditional musicians, tea master,
 
 Content updated: 2026-11-26
 
-Source revision: sha256:9eebf08cfc31bac2
+Source revision: sha256:32cd12d286dd34d6
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Traditional musicians, tea master, dancers, amariya carriers, live band, food tr
 
 ## Entertainment
 
-Traditional musicians, tea master, dancers, amariya carriers, live band, food trucks and games. Delivery and set-up in Marrakech and throughout Morocco. Prices on request.
+Traditional musicians, tea master, dancers, amariya carriers, live band, food trucks and games. Delivery in Marrakech and throughout Morocco, set-up included. We recommend booking 3 months ahead. Prices on request.
 
 ### Ahouach musicians
 

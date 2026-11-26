@@ -8,7 +8,7 @@ Purpose: Tents & Staging for rent in Marrakech: our signature pieces: nomad tent
 
 Content updated: 2026-11-26
 
-Source revision: sha256:4fb72193220c4b0b
+Source revision: sha256:c6e7c0591a55148d
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Our signature pieces: nomad tents, monumental chandeliers, lounges and stages to
 
 ## Tents & Staging
 
-Our signature pieces: nomad tents, monumental chandeliers, lounges and stages to transform any venue. Delivery and set-up in Marrakech and throughout Morocco. Prices on request.
+Our signature pieces: nomad tents, monumental chandeliers, lounges and stages to transform any venue. Delivery in Marrakech and throughout Morocco, set-up included. We recommend booking 3 months ahead. Prices on request.
 
 ### Terracotta Majlis Lounge
 

@@ -8,7 +8,7 @@ Purpose: Candles & Lights for rent in Marrakech: lanterns, chandeliers, cordless
 
 Content updated: 2026-11-26
 
-Source revision: sha256:39ed93fe8061be6d
+Source revision: sha256:455ea4cc1efbe99c
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Lanterns, chandeliers, cordless lamps, candle holders and string lights to set y
 
 ## Candles & Lights
 
-Lanterns, chandeliers, cordless lamps, candle holders and string lights to set your event aglow. Delivery and set-up in Marrakech and throughout Morocco. Prices on request.
+Lanterns, chandeliers, cordless lamps, candle holders and string lights to set your event aglow. Delivery in Marrakech and throughout Morocco, set-up included. We recommend booking 3 months ahead. Prices on request.
 
 ### Chandelier ERIC
 

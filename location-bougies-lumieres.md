@@ -8,7 +8,7 @@ Purpose: Location bougies & lumières à Marrakech : lanternes, lustres, lampes 
 
 Content updated: 2026-11-26
 
-Source revision: sha256:82c415d49730a139
+Source revision: sha256:eda72c02e6c5b291
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Lanternes, lustres, lampes sans fil, bougeoirs, photophores et guirlandes pour m
 
 ## Bougies & Lumières
 
-Lanternes, lustres, lampes sans fil, bougeoirs, photophores et guirlandes pour mettre votre événement en lumière. Livraison et installation à Marrakech et dans tout le Maroc. Tarifs sur devis.
+Lanternes, lustres, lampes sans fil, bougeoirs, photophores et guirlandes pour mettre votre événement en lumière. Livraison à Marrakech et dans tout le Maroc, montage compris. Réservation conseillée 3 mois à l'avance. Tarifs sur devis.
 
 ### Lustre ERIC
 

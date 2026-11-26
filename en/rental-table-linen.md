@@ -8,7 +8,7 @@ Purpose: Table Linen for rent in Marrakech: tablecloths, high-table covers and n
 
 Content updated: 2026-11-26
 
-Source revision: sha256:ad3501dc9c8cdabd
+Source revision: sha256:a6bed71b6f009bfa
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Tablecloths, high-table covers and napkins, plain, striped or embroidered, plus 
 
 ## Table Linen
 
-Tablecloths, high-table covers and napkins, plain, striped or embroidered, plus made-to-measure linen. Delivery and set-up in Marrakech and throughout Morocco. Prices on request.
+Tablecloths, high-table covers and napkins, plain, striped or embroidered, plus made-to-measure linen. Delivery in Marrakech and throughout Morocco, set-up included. We recommend booking 3 months ahead. Prices on request.
 
 ### Napkin BIBI
 

@@ -8,7 +8,7 @@ Purpose: Location art de la table à Marrakech : assiettes, sous-assiettes, couv
 
 Content updated: 2026-11-26
 
-Source revision: sha256:28f93760131e6f53
+Source revision: sha256:e7f7ccc77e091963
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -26,7 +26,7 @@ Assiettes, sous-assiettes, couverts, verres à vin, flûtes, coupes et verres be
 
 ## Art de la Table
 
-Assiettes, sous-assiettes, couverts, verres à vin, flûtes, coupes et verres beldi soufflés à la main. Livraison et installation à Marrakech et dans tout le Maroc. Tarifs sur devis.
+Assiettes, sous-assiettes, couverts, verres à vin, flûtes, coupes et verres beldi soufflés à la main. Livraison à Marrakech et dans tout le Maroc, montage compris. Réservation conseillée 3 mois à l'avance. Tarifs sur devis.
 
 ### Couverts IRIS
 

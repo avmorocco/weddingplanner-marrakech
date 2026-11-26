@@ -8,7 +8,7 @@ Purpose: Organisation d'événements de prestige à Marrakech : galas d'entrepri
 
 Content updated: 2026-11-26
 
-Source revision: sha256:da1cf6ee7cc137e1
+Source revision: sha256:45435f5f1784e459
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -30,7 +30,7 @@ Discrétion diplomatique, protocoles stricts, mise en scène de marque et hospit
 
 ### Galas & Soirées de Prestige
 
-Banquets assis jusqu'à 500 invités dans des palais privatisés, scénographie lumineuse immersive, service au guéridon et programmation artistique internationale.
+Banquets assis dans des palais privatisés, scénographie lumineuse immersive, service au guéridon et programmation artistique internationale.
 
 💎
 

@@ -8,7 +8,7 @@ Purpose: Rent event furniture, lanterns and candles, tableware, table linen, dec
 
 Content updated: 2026-11-26
 
-Source revision: sha256:7a5b9e1e7c1fc4c7
+Source revision: sha256:80287404711e438a
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -97,3 +97,21 @@ Traditional musicians, tea master, dancers, amariya carriers, live band, food tr
 View the collection →
 
 ](https://www.weddingplanner-marrakech.com/en/rental-entertainment.html)
+
+Frequently Asked Questions
+
+## Renting with us: the essentials
+
+Answers to the questions we are asked most often before booking equipment.
+
+We deliver in Marrakech and throughout Morocco.
+
+We recommend booking 3 months in advance. For a closer date, contact us and we will check availability.
+
+Yes, set-up is included: our team installs the equipment on site.
+
+No, there is no minimum order: you can rent a single item or a complete installation.
+
+No, we do not require a security deposit.
+
+Add the items you like with “+ Add to quote”, then send your request, or message us directly on WhatsApp: we will reply with a detailed quote.
