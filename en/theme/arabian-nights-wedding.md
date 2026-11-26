@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Signature Scenography 04
 
-**Arabian Nights**
+**Arabian Nights Wedding in Marrakech**
 
 The opulence of Oriental palaces and the magic of caliphate legends reinvented with contemporary luxury sophistication.
 

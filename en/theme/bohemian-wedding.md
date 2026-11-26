@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Signature Scenography 01
 
-**Rustic Bohemian**
+**Rustic Bohemian Wedding in Marrakech**
 
 The poetic union of raw natural elements and wild Moroccan flora, beneath the century-old canopies of an olive grove in the Palmeraie.
 

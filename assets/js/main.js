@@ -232,6 +232,9 @@ const dict_fr_to_en = {
   "Thèmes Mariage": "Wedding Themes",
   "Thèmes de Mariage": "Wedding Themes",
   "Bohème Champêtre": "Rustic Bohemian",
+  "Mariage bohème champêtre à Marrakech": "Rustic Bohemian Wedding in Marrakech",
+  "Mariage jardin secret en riad à Marrakech": "Secret Garden Riad Wedding in Marrakech",
+  "Mariage Mille et Une Nuits à Marrakech": "Arabian Nights Wedding in Marrakech",
   "Désert d'Agafay": "Agafay Desert",
   "Jardin Secret": "Secret Garden",
   "Mille et Une Nuits": "Arabian Nights",
@@ -1150,8 +1153,16 @@ function initQuoteModal() {
     });
   }
 
-  // Email form submission: opens the visitor's mail app with a pre-filled enquiry
+  // Email form submission: sends the enquiry through /envoi-devis.php (OVH mail).
+  // If the server script is unreachable, falls back to the visitor's mail app (previous behaviour).
   if (quoteForm) {
+    if (!quoteForm.querySelector('[name="site_web"]')) {
+      const trap = document.createElement('input');
+      trap.type = 'text'; trap.name = 'site_web'; trap.tabIndex = -1; trap.autocomplete = 'off';
+      trap.setAttribute('aria-hidden', 'true');
+      trap.style.cssText = 'position:absolute;left:-9999px;width:1px;height:1px;opacity:0;';
+      quoteForm.appendChild(trap);
+    }
     quoteForm.addEventListener('submit', (e) => {
       e.preventDefault();
       const val = (id, d) => { const el = document.querySelector(id); return (el && el.value) ? el.value : d; };
@@ -1168,9 +1179,46 @@ function initQuoteModal() {
         'Budget estimé : ' + val('#quoteBudget', 'À convenir'), 'E-mail : ' + val('#quoteEmail', ''), '', 'Détails : ' + val('#quoteNotes', '')
       ];
       const subject = isEn ? 'Quote request – Wedding Planner Marrakech' : 'Demande de devis – Wedding Planner Marrakech';
-      trackEvent('generate_lead', { method: 'quote_form_email' });
-      window.location.href = 'mailto:ocrewedding.marrakech@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
-      if (typeof closeModal === 'function') closeModal();
+      const openMailApp = () => {
+        trackEvent('generate_lead', { method: 'quote_form_email' });
+        window.location.href = 'mailto:ocrewedding.marrakech@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
+        if (typeof closeModal === 'function') closeModal();
+      };
+
+      const data = new FormData();
+      data.append('nom', val('#quoteName', ''));
+      data.append('telephone', val('#quotePhone', ''));
+      data.append('email', val('#quoteEmail', ''));
+      data.append('type', val('#quoteEventType', ''));
+      data.append('date', val('#quoteDate', ''));
+      data.append('invites', val('#quoteGuests', ''));
+      data.append('lieu', val('#quoteLocation', ''));
+      data.append('budget', val('#quoteBudget', ''));
+      data.append('details', val('#quoteNotes', ''));
+      data.append('langue', isEn ? 'en' : 'fr');
+      const trapEl = quoteForm.querySelector('[name="site_web"]');
+      data.append('site_web', trapEl ? trapEl.value : '');
+
+      const submitBtn = quoteForm.querySelector('button[type="submit"]');
+      const btnLabel = submitBtn ? submitBtn.innerHTML : '';
+      if (submitBtn) { submitBtn.disabled = true; submitBtn.textContent = isEn ? 'Sending…' : 'Envoi en cours…'; }
+
+      fetch('/envoi-devis.php', { method: 'POST', body: data })
+        .then(r => r.json().then(j => ({ ok: r.ok && j && j.ok })))
+        .catch(() => ({ ok: false }))
+        .then(res => {
+          if (submitBtn) { submitBtn.disabled = false; submitBtn.innerHTML = btnLabel; }
+          if (!res.ok) { openMailApp(); return; }
+          trackEvent('generate_lead', { method: 'quote_form_server' });
+          const msg = document.createElement('div');
+          msg.className = 'form-success';
+          msg.setAttribute('role', 'status');
+          msg.style.cssText = 'padding:24px 8px;text-align:center;line-height:1.6;';
+          msg.innerHTML = isEn
+            ? '<strong>Thank you, your request has been sent.</strong><br>We will get back to you very soon. For a faster answer, message us on WhatsApp: +212 656 394 642.'
+            : '<strong>Merci, votre demande a bien été envoyée.</strong><br>Nous revenons vers vous très vite. Pour une réponse plus rapide, écrivez-nous sur WhatsApp : +212 656 394 642.';
+          quoteForm.replaceChildren(msg);
+        });
     });
   }
 }
