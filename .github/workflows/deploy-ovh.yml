@@ -46,18 +46,32 @@ jobs:
         if: steps.check.outputs.ready == 'true'
         run: sudo apt-get update -qq && sudo apt-get install -y -qq lftp
 
-      - name: Envoyer sur OVH (SFTP)
+      - name: Envoyer sur OVH (SFTP, sinon FTP chiffré)
         if: steps.check.outputs.ready == 'true'
         run: |
-          lftp -u "$SFTP_USER","$SFTP_PASSWORD" "sftp://$SFTP_HOST" <<LFTP
+          # Supprime d'éventuels espaces ou retours à la ligne copiés avec les secrets
+          U="$(printf '%s' "$SFTP_USER" | tr -d '[:space:]')"
+          export LFTP_PASSWORD="$(printf '%s' "$SFTP_PASSWORD" | tr -d '\r\n')"
+          upload() {
+            lftp --env-password -u "$U" "$1" <<LFTP
           set sftp:auto-confirm yes
-          set net:max-retries 3
+          set ftp:ssl-force true
+          set ftp:ssl-protect-data true
+          set ssl:verify-certificate yes
+          set net:max-retries 2
           set net:timeout 30
           mirror --reverse --verbose --parallel=4 \
             --exclude-glob .git/ --exclude-glob .github/ --exclude-glob .gitignore \
             ./ $REMOTE_DIR/
           bye
           LFTP
+          }
+          echo "Essai 1 : SFTP (port 22)"
+          if upload "sftp://$SFTP_HOST"; then echo "Mise en ligne réussie en SFTP"; exit 0; fi
+          echo "Essai 2 : FTP chiffré TLS (FTPS, port 21)"
+          if upload "ftp://$SFTP_HOST"; then echo "Mise en ligne réussie en FTPS"; exit 0; fi
+          echo "::error::OVH a refusé la connexion en SFTP et en FTPS. Vérifiez l'identifiant (secret OVH_SFTP_USER) et le mot de passe FTP (secret OVH_SFTP_PASSWORD) dans l'espace OVH, onglet FTP-SSH."
+          exit 1
 
       - name: Vérifier le site en ligne
         if: steps.check.outputs.ready == 'true'
