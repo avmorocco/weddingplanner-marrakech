@@ -1,10 +1,10 @@
-# Decor – Event Rental in Marrakech
+# Wedding & Event Decor Rental in Marrakech
 
-Canonical: [Decor – Event Rental in Marrakech](https://www.weddingplanner-marrakech.com/en/rental-decor.html)
+Canonical: [Wedding & Event Decor Rental in Marrakech](https://www.weddingplanner-marrakech.com/en/rental-decor.html)
 
 Locale: en
 
-Purpose: Decor for rent in Marrakech: vases, baskets, rugs, trays, neon signs, sign stands, dance floor and mirror ball.
+Purpose: Rent vases, baskets, rugs, trays, neon signs, a dance floor and a mirror ball for weddings and events in Marrakech. Delivery across Morocco, set-up included.
 
 Content updated: 2026-11-26
 
@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Exclusive Marrakech Catalogue
 
-**Decor**
+**Event Decor Rental in Marrakech**
 
 Vases, baskets, rugs, trays, neon signs, sign stands, dance floor and mirror ball.
 
@@ -165,3 +165,39 @@ On request
 Floating pieces to decorate pools and ponds. Materials and colours: red.
 
 On request
+
+Good to know
+
+## Dress a table, a lounge, a party
+
+Vases, baskets, rugs, trays and neon signs give a table or a lounge its personality. This collection completes our furniture and tableware to dress a wedding, a gala dinner or a private party in Marrakech.
+
+It also covers the party itself: dance floor, mirror ball and sign stands for the seating plan or signage.
+
+[Tableware](https://www.weddingplanner-marrakech.com/en/rental-tableware.html) · [Table Linen](https://www.weddingplanner-marrakech.com/en/rental-table-linen.html) · [Candles & Lights](https://www.weddingplanner-marrakech.com/en/rental-candles-lights.html) · [All collections](https://www.weddingplanner-marrakech.com/en/rental.html)
+
+## Frequently asked questions
+
+### Where do you deliver?
+
+We deliver in Marrakech and throughout Morocco.
+
+### How far in advance should we book?
+
+We recommend booking 3 months in advance. For a closer date, contact us and we will check availability.
+
+### Is set-up included?
+
+Yes, set-up is included: our team installs the equipment on site.
+
+### Is there a minimum order?
+
+No, there is no minimum order: you can rent a single item or a complete installation.
+
+### Do you require a deposit?
+
+No, we do not require a security deposit.
+
+### How do I get a price?
+
+Add the items you like with “+ Add to quote”, then send your request, or message us directly on WhatsApp: we will reply with a detailed quote.

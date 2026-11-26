@@ -1,10 +1,10 @@
-# Décoration – Location événementielle à Marrakech
+# Location de décoration pour mariage et événement à Marrakech
 
-Canonical: [Décoration – Location événementielle à Marrakech](https://www.weddingplanner-marrakech.com/location-decoration.html)
+Canonical: [Location de décoration pour mariage et événement à Marrakech](https://www.weddingplanner-marrakech.com/location-decoration.html)
 
 Locale: fr
 
-Purpose: Location décoration à Marrakech : vases, paniers, tapis, plateaux, néons, porte-panneaux, piste de danse et boule à facettes.
+Purpose: Location de vases, paniers, tapis, plateaux, néons, piste de danse et boule à facettes pour mariages et événements à Marrakech. Livraison dans tout le Maroc, montage compris.
 
 Content updated: 2026-11-26
 
@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Catalogue Exclusif Marrakech
 
-**Décoration**
+**Location de décoration à Marrakech**
 
 Vases, paniers, tapis, plateaux, néons, porte-panneaux, piste de danse et boule à facettes.
 
@@ -165,3 +165,39 @@ Sur devis
 Éléments flottants pour décorer piscines et bassins. Matières et couleurs : rouge.
 
 Sur devis
+
+Bon à savoir
+
+## Habiller une table, un salon, une soirée
+
+Vases, paniers, tapis, plateaux et néons donnent sa personnalité à une table ou à un salon. Cette collection complète le mobilier et l'art de la table pour habiller un mariage, un dîner de gala ou une soirée privée à Marrakech.
+
+Elle comprend aussi l'équipement de la soirée : piste de danse, boule à facettes et porte-panneaux pour le plan de table ou la signalétique.
+
+[Art de la Table](https://www.weddingplanner-marrakech.com/location-art-de-la-table.html) · [Linge de Table](https://www.weddingplanner-marrakech.com/location-linge-de-table.html) · [Bougies & Lumières](https://www.weddingplanner-marrakech.com/location-bougies-lumieres.html) · [Toutes les collections](https://www.weddingplanner-marrakech.com/location.html)
+
+## Questions fréquentes
+
+### Où livrez-vous ?
+
+Nous livrons à Marrakech et dans tout le Maroc.
+
+### Combien de temps à l'avance faut-il réserver ?
+
+Nous conseillons de réserver 3 mois à l'avance. Pour une date plus proche, contactez-nous : nous vérifions les disponibilités.
+
+### Le montage est-il compris ?
+
+Oui, le montage est compris : nos équipes installent le matériel sur place.
+
+### Y a-t-il un minimum de commande ?
+
+Non, il n'y a pas de minimum de commande : vous pouvez louer un seul article comme une installation complète.
+
+### Faut-il verser une caution ?
+
+Non, nous ne demandons pas de caution.
+
+### Comment obtenir un prix ?
+
+Ajoutez les articles qui vous intéressent avec « + Ajouter au devis », puis envoyez votre demande, ou écrivez-nous directement sur WhatsApp : nous vous répondons avec un devis détaillé.
