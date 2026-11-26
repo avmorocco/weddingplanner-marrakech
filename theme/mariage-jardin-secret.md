@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Thème Jardin Secret : riads historiques privatisés, murmures de fontaines en zellige, effluves de fleurs d'oranger et célébrations romantiques intimistes à Marrakech.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:d6710122df7e1d4a
+Source revision: sha256:f825815867d7ea43
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

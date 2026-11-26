@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Decor for rent in Marrakech: vases, baskets, rugs, trays, neon signs, sign stands, dance floor and mirror ball.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:09bd0d1dba587f5c
+Source revision: sha256:28e3c9dab3b6dee4
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

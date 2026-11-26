@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Location décoration à Marrakech : vases, paniers, tapis, plateaux, néons, porte-panneaux, piste de danse et boule à facettes.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:b0ea46cc309ba619
+Source revision: sha256:3bc12220322a62b5
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

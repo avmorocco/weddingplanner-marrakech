@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Furniture for rent in Marrakech: chairs, lounge chairs, day beds, poufs, bars, DJ booths, tables and stages.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:b10df349b18a9758
+Source revision: sha256:6b007aee511966de
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

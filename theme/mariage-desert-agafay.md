@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Organisez votre mariage de luxe dans le désert d'Agafay à Marrakech : campements nomades 5 étoiles, dîner aux chandelles sous les étoiles et scénographie d'exception.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:2ec1623ceb3f480b
+Source revision: sha256:f7c20051e43dca8f
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

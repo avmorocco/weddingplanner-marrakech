@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Mentions légales, éditeur du site, hébergement et propriété intellectuelle de la société Wedding Planner Marrakech SARL.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:d788bb9c2e939bb1
+Source revision: sha256:34107fc0bf1f1ac7
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

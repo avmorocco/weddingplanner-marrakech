@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Location linge de table à Marrakech : nappes, housses de mange-debout et serviettes, unies, rayées ou brodées, et linge sur mesure.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:b42134fb13b618cb
+Source revision: sha256:34a007079e413188
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

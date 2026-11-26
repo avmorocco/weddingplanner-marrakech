@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Location mobilier à Marrakech : chaises, fauteuils lounge, lits de jour, poufs, bars, cabines DJ, tables et scènes.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:f15b568a8cb6b365
+Source revision: sha256:62f8ee2afbe89499
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

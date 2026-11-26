@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Premier luxury wedding planner in Marrakech: bespoke destination weddings, 5-star desert bivouacs in Agafay, palatial receptions, and private concierge.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:f0e196aac9e0406d
+Source revision: sha256:93e5282521fa8717
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -116,13 +116,13 @@ Gentle starlit evenings
 
 From intimate Medina riads to luxury nomadic camps in the Agafay Desert, and grand palatial villas in the Palmeraie, the city offers unparalleled private sanctuaries.
 
-Full privatization without sound curfews
+Full venue privatization
 
 ✈️
 
 ### Effortless Global Accessibility
 
-Just 3 hours from major European capitals, with direct daily flights from Paris, London, Geneva, Dubai, and New York, ensuring effortless travel for your international guests.
+Marrakech-Menara airport has direct flights to many European cities, around 3 to 4 hours away: your guests travel easily, and we organise their welcome.
 
 Direct flights & VIP airport welcome
 

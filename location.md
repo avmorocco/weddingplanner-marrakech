@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Location événementielle à Marrakech : tentes, mobilier et assises, lanternes et bougies, art de la table, linge, décoration et animations traditionnelles.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:1b64b53a33601582
+Source revision: sha256:561c7383b6fead0d
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

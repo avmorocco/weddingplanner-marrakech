@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Organisation d'événements de prestige à Marrakech : galas d'entreprise, lancements de marques de luxe, séminaires exécutifs et anniversaires privés d'exception.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:792dd7ff9a47052f
+Source revision: sha256:da1cf6ee7cc137e1
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -50,27 +50,11 @@ Assemblées de comités de direction et sommets stratégiques confidentiels alli
 
 Célébrations d'anniversaires mémorables (30, 40, 50 ans...) et garden parties exclusives avec privatisation de domaines, DJ internationaux et régie discrète.
 
-Retour d'Expérience
+Sur Mesure
 
-## Études de Cas Récents
+## Votre Événement, Conçu pour Vous
 
-Haute Horlogerie Suisse • 160 Dirigeants
-
-### Dîner Gala dans les Dunes d'Agafay
-
-Création d'un dôme géodésique transparent éphémère de 450 m² climatisé au milieu du désert pour la présentation mondiale d'une nouvelle collection de montres.
-
-Régie technique autonome (générateurs insonorisés, connexion satellite haut débit), menu 5 services signé par un chef doublement étoilé et transfert VIP en 4x4 grand confort depuis Marrakech.
-
-Résultat: Taux de satisfaction client de 100% et retombées presse internationales majeures.
-
-Groupe Tech International • 240 Invités
-
-### Soirée de Clôture dans un Palace de la Palmeraie
-
-Scénarisation d'une soirée "Oasis du Futur" combinant projections architecturales 3D sur les façades hispano-mauresques d'un palais et spectacle de drones lumineux dans le ciel étoilé.
-
-Buffets dînatoires thématiques, 4 bars à cocktails moléculaires et concert privé d'un artiste internationalement reconnu.
+Chaque événement est conçu sur mesure: partagez-nous votre brief et nous vous présenterons des références adaptées à votre projet.
 
 Galas & Soirées en Images
 

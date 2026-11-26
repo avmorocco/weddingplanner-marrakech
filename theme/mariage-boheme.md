@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Scénographie de mariage bohème chic à Marrakech : matières naturelles, oliveraies séculaires, voilages de lin, art de la table artisanal et étude de cas réelle.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:d011cd6d8ff088bd
+Source revision: sha256:db61161cc1668fb1
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

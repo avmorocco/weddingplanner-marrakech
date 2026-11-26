@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Contactez Wedding Planner Marrakech : formulaire d'étude en 2 étapes, rendez-vous confidentiel à Marrakech ou par visio, échange direct sur WhatsApp.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:72df3f0273bf6774
+Source revision: sha256:8387599403b67299
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -16,7 +16,7 @@ Maintenance owner: Wedding Planner Marrakech (site owner)
 
 Conciergerie Dédiée
 
-**Initions Votre Projet**
+**Parlons de votre projet**
 
 Chaque grand événement naît d'un premier regard. Échangeons ensemble en toute confidentialité.
 
@@ -48,7 +48,7 @@ Uniquement sur rendez-vous privé.
 
 #### Couples Internationaux
 
-Plus de 85% de nos mariés vivent à l'étranger (Paris, Londres, Dubaï, New York, Genève). Nous planifions des visioconférences sur votre créneau horaire avec présentation 3D et sélection des lieux à distance.
+Vous vivez à l'étranger? Nous organisons les rendez-vous en visioconférence à l'heure qui vous convient, avec sélection des lieux à distance.
 
 Votre Vision
 

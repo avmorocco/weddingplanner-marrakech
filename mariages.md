@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Découvrez nos formules de mariage haute couture à Marrakech : étapes d'accompagnement sur-mesure, palais privatisés, désert d'Agafay, FAQ et conciergerie privée.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:6d282aa7200280ff
+Source revision: sha256:c9af3410fbde97fe
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -152,15 +152,15 @@ Questions Fréquentes
 
 Les réponses de nos spécialistes pour préparer votre mariage à Marrakech en toute tranquillité.
 
-Les mois d'avril à juin, ainsi que de septembre à novembre, offrent des températures douces et idéales (entre 24°C et 28°C) avec un ensoleillement radieux. Les soirées d'été sont parfaites pour des réceptions nocturnes sous les étoiles dans le désert d'Agafay.
+Le printemps (avril à juin) et l'automne (septembre à novembre) offrent en général des journées chaudes et des soirées douces, idéales pour célébrer en plein air. L'été est très chaud en journée mais agréable le soir, notamment dans le désert d'Agafay.
 
 Pour privatiser les palais les plus demandés de la Palmeraie ou les campements exclusifs d'Agafay, nous préconisons un délai de 8 à 12 mois. Toutefois, grâce à notre réseau permanent à Marrakech, nous pouvons également concevoir des mariages sur-mesure d'exception en 3 à 4 mois.
 
-La grande majorité des couples célèbrent leur union civile dans leur pays de résidence, puis organisent une magnifique cérémonie laïque, symbolique ou religieuse à Marrakech. Notre conciergerie vous accompagne pour toutes les démarches notariales ou protocolaires nécessaires.
+Beaucoup de couples étrangers se marient civilement dans leur pays, puis célèbrent à Marrakech une cérémonie symbolique, laïque ou religieuse. Un mariage civil au Maroc est possible dans certains cas, mais il dépend de votre nationalité, de votre religion et des documents exigés: nous vous orientons vers les professionnels compétents (notaire, adoul, consulat) pour vérifier votre situation.
 
 Absolument. Notre service de conciergerie VIP négocie des tarifs préférentiels dans les plus beaux hôtels et riads partenaires, et organise les transferts privés avec chauffeurs (Mercedes Classe V, limousines et minibus luxe) depuis l'aéroport Menara.
 
-Oui! Contrairement à l'Europe, les domaines privatisés dans la Palmeraie et le désert d'Agafay ne souffrent d'aucun couvre-feu sonore. Vous pouvez danser jusqu'à l'aube en toute liberté.
+Oui, de nombreux domaines privés de la Palmeraie et d'Agafay accueillent des soirées dansantes tard dans la nuit. Les horaires et le niveau sonore autorisés dépendent de chaque lieu: nous les vérifions avec le propriétaire avant toute réservation.
 
 La Soirée
 

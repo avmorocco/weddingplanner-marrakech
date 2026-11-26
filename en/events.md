@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Prestige corporate event planning in Marrakech: gala dinners, luxury brand launches, executive retreats, and bespoke milestone celebrations.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:36ab1d409dbd3f55
+Source revision: sha256:cb8e1c7d413949ab
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -50,27 +50,11 @@ Board retreats and confidential leadership summits combining seamless high-tech 
 
 Landmark birthday milestones (30th, 40th, 50th...) and exclusive garden galas with private estate buyouts, world-class DJs, and discreet stage direction.
 
-Case Studies & Track Record
+Bespoke
 
-## Recent Case Studies
+## Your Event, Designed for You
 
-Haute Horlogerie Suisse • 160 Dirigeants
-
-### Gala Dinner in the Agafay Dunes
-
-Creation of an ephemeral 450 m² air-conditioned transparent geodesic dome in the desert for the global unveiling of a timepiece collection.
-
-Autonomous technical hub (soundproof generators, high-speed satellite broadband), 5-course menu by a two-Michelin-starred chef, and luxury chauffeured 4x4 fleet.
-
-Outcome: 100% client satisfaction score and widespread international editorial press coverage.
-
-Groupe Tech International • 240 Invités
-
-### Closing Gala in a Palmeraie Palace
-
-Creation of an "Oasis of the Future" gala blending 3D video mapping across Hispano-Moorish palace facades with a synchronized aerial drone show.
-
-Thematic cocktail banquets, 4 molecular mixology bars, and a private headline concert by an acclaimed international artist.
+Every event is designed to measure: share your brief with us and we will present references suited to your project.
 
 Galas & Parties in Pictures
 

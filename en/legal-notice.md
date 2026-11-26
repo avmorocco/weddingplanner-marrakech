@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Legal notice, site publisher details, hosting and intellectual property information for Wedding Planner Marrakech SARL.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:abc2dd2c235a9d1c
+Source revision: sha256:4602ea2ee1e244c5
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

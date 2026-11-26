@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Engagements de discrétion, conformité RGPD et loi marocaine 09-08 pour la protection des données personnelles de nos mariés et de leurs convives.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:c40dfea8dcda837a
+Source revision: sha256:83bc397d0fb6c7a9
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

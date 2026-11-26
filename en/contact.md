@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Inquire with Wedding Planner Marrakech: confidential 2-step quote request, direct WhatsApp concierge, in-person consultation in Marrakech or video meeting.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:e216d9f5435f96bd
+Source revision: sha256:95d2dfd8ca779715
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -48,7 +48,7 @@ Exclusively by private appointment.
 
 #### International Couples
 
-Over 85% of our couples reside abroad (Paris, London, Dubai, New York, Geneva). We schedule video meetings across your time zone with 3D renderings and remote venue scouting.
+Living abroad? We hold meetings by video call at a time that suits you, with remote venue selection.
 
 Your Vision
 

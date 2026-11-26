@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Explorez notre portfolio de mariages féeriques à Marrakech : réceptions royales à la Palmeraie, bivouacs à Agafay, riads secrets et scénographies florales.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:283a8a1a55e2f2c5
+Source revision: sha256:60ddd8b247406cc6
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

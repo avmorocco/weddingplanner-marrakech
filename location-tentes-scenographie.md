@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Location tentes & scénographie à Marrakech : nos pièces signature : tentes nomades, lustres monumentaux, salons et scènes, pour transformer n'importe quel lie
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:6bba57292fcea665
+Source revision: sha256:fa8f78f5008416da
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

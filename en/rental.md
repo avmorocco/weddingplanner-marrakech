@@ -1,14 +1,14 @@
-# Luxury Event Furniture & Decor Rental in Marrakech
+# Event Rental in Marrakech – 7 Collections, 230+ Items
 
-Canonical: [Luxury Event Furniture & Decor Rental in Marrakech](https://www.weddingplanner-marrakech.com/en/rental.html)
+Canonical: [Event Rental in Marrakech – 7 Collections, 230+ Items](https://www.weddingplanner-marrakech.com/en/rental.html)
 
 Locale: en
 
-Purpose: Event rentals in Marrakech: tents, furniture and seating, lanterns and candles, tableware, table linen, decor and traditional entertainment.
+Purpose: Rent event furniture, lanterns and candles, tableware, table linen, decor, tents and traditional entertainment in Marrakech. Browse 7 collections and request a quote.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:0d98e03be9cce0d7
+Source revision: sha256:7a5b9e1e7c1fc4c7
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

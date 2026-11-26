@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Curate your luxury wedding in the Agafay Desert: 5-star nomadic camps, candlelit dinner under the stars, mineral landscapes, and bespoke staging.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:b642599be6282f09
+Source revision: sha256:7b413b516c1befe1
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

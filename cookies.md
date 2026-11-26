@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Informations sur l'utilisation des cookies techniques essentiels et le respect de votre vie privée sur le site Wedding Planner Marrakech.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:3102f519da0d3b7d
+Source revision: sha256:889072580550815a
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

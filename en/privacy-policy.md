@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Client confidentiality commitment, GDPR and Moroccan Law 09-08 compliance for personal data protection by Wedding Planner Marrakech.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:ac61d1a0fcc6ebcb
+Source revision: sha256:5b7c5795dca650e8
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

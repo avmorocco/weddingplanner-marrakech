@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Entertainment for rent in Marrakech: traditional musicians, tea master, dancers, amariya carriers, live band, food trucks and games.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:7070875c6a35136c
+Source revision: sha256:9eebf08cfc31bac2
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

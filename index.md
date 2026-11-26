@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Wedding Planner d'exception à Marrakech : conception de mariages de luxe sur-mesure dans le désert d'Agafay, palais de la Palmeraie et riads confidentiels.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:17ea1cadabc08f08
+Source revision: sha256:4f6ac6ee250953e4
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -116,13 +116,13 @@ Douceur des soirées étoilées
 
 Des riads secrets de la Médina aux tentes nomades de luxe dans le désert d'Agafay, jusqu'aux villas palatiales de la Palmeraie, la ville regorge de joyaux privatifs incomparables. Chaque lieu se prête à des mises en scène théâtrales et poétiques.
 
-Privatisation totale sans couvre-feu
+Privatisation totale des lieux
 
 ✈️
 
 ### Accessibilité internationale fluide
 
-À seulement 3 heures des grandes capitales européennes et reliée par des vols directs quotidiens depuis Paris, Londres, Genève, Dubaï et New York, l'aéroport Menara accueille vos proches avec une aisance remarquable et un sens de l'accueil légendaire.
+L'aéroport de Marrakech-Ménara est relié par des vols directs à de nombreuses villes européennes, à environ 3 à 4 heures de vol: vos proches arrivent facilement, et nous organisons leur accueil.
 
 Liaisons directes & accueil VIP
 

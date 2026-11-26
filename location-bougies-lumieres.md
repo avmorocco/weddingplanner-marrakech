@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Location bougies & lumières à Marrakech : lanternes, lustres, lampes sans fil, bougeoirs, photophores et guirlandes pour mettre votre événement en lumière.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:49167cc919bacd33
+Source revision: sha256:82c415d49730a139
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

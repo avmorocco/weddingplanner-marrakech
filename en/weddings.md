@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Explore our haute-couture wedding collections in Marrakech: bespoke planning milestones, private palace buyouts, Agafay Desert camps, FAQ, and private concierge.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:4e087278bad408f4
+Source revision: sha256:5ed7396d5fa073ba
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
@@ -152,15 +152,15 @@ Frequently Asked Questions
 
 Expert answers from our specialists to prepare your Marrakech wedding in complete serenity.
 
-April through June and September through November offer ideal mild temperatures (24°C to 28°C / 75°F to 82°F) and radiant sunshine. Summer evenings are spectacular for starlit desert parties in Agafay.
+Spring (April to June) and autumn (September to November) usually bring warm days and mild evenings, ideal for outdoor celebrations. Summer is very hot during the day but pleasant at night, especially in the Agafay Desert.
 
 To secure the most coveted Palmeraie palaces or private Agafay camps, we recommend 8 to 12 months. However, through our permanent Marrakech team, we frequently craft bespoke luxury weddings in 3 to 4 months.
 
-Most international couples complete their civil paperwork in their home country, followed by a romantic symbolic, secular, or religious ceremony in Marrakech. Our concierge assists with all protocol and arrangements.
+Many international couples complete their civil marriage in their home country, then celebrate a symbolic, secular or religious ceremony in Marrakech. A civil marriage in Morocco is possible in some cases, but it depends on your nationality, religion and the documents required: we refer you to the relevant professionals (notary, adoul, consulate) to check your situation.
 
 Absolutely. Our VIP concierge secures preferred group rates across top partner hotels and riads, managing private chauffeured transfers (Mercedes V-Class, luxury sprinters, sedans) from Menara Airport.
 
-Yes! Unlike most European venues, private estates in the Palmeraie and camps in the Agafay Desert have no sound restrictions. You can dance until dawn in complete freedom.
+Yes, many private estates in the Palmeraie and camps in Agafay host dance parties late into the night. Permitted hours and sound levels depend on each venue: we check them with the owner before any booking.
 
 The Celebration
 

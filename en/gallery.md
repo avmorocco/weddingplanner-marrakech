@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Explore our portfolio of breathtaking destination weddings in Marrakech: Agafay Desert bivouacs, Palmeraie palaces, secluded riads, and bespoke florals.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:1623a010694109ec
+Source revision: sha256:aa4d686cb18f127d
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

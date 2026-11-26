@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Location animations à Marrakech : musiciens traditionnels, maître de thé, danseuses, porteurs d'amariya, groupe live, food trucks et jeux.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:dc75f7b3e96a3304
+Source revision: sha256:8ddf58228a80b4e3
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

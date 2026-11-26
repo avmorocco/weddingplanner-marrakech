@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Thème Mille et Une Nuits : palais impériaux, lustres monumentaux en laiton ciselé, tentures de velours, orchestres andalous et féerie royale orientale à Marrakech.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:cae5cf0a10872822
+Source revision: sha256:77c858b0f70842f9
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

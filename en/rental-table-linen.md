@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Table Linen for rent in Marrakech: tablecloths, high-table covers and napkins, plain, striped or embroidered, plus made-to-measure linen.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:0195fbaef4eb58a0
+Source revision: sha256:ad3501dc9c8cdabd
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

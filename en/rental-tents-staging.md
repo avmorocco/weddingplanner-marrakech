@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Tents & Staging for rent in Marrakech: our signature pieces: nomad tents, monumental chandeliers, lounges and stages to transform any venue.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:1e505b675de07679
+Source revision: sha256:4fb72193220c4b0b
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

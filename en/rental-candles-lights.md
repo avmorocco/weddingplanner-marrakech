@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Candles & Lights for rent in Marrakech: lanterns, chandeliers, cordless lamps, candle holders and string lights to set your event aglow.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:e648c362f7f29b99
+Source revision: sha256:39ed93fe8061be6d
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

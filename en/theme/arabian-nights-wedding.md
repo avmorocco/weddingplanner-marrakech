@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Arabian Nights royal wedding theme in Marrakech: palatial buyouts, hand-carved brass chandeliers, velvet drapes, Andalusian orchestras, and oriental opulence.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:98783dfddedecb7b
+Source revision: sha256:494f82fed9e7c889
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

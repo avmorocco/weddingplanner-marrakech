@@ -6,9 +6,9 @@ Locale: fr
 
 Purpose: Location art de la table à Marrakech : assiettes, sous-assiettes, couverts, verres à vin, flûtes, coupes et verres beldi soufflés à la main.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:070e0d0b022da152
+Source revision: sha256:28f93760131e6f53
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

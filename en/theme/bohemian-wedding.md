@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Rustic bohemian luxury wedding design in Marrakech: raw textures, century-old olive groves, natural linen drapes, handcrafted ceramics, and real case study.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:28ce0c89d0f25f33
+Source revision: sha256:776d08785d98a488
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

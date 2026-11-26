@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Secret Garden wedding theme in Marrakech: secluded historic riad buyouts, murmuring zellige fountains, fresh orange blossoms, and intimate romantic gatherings.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:81a2385673721d26
+Source revision: sha256:6ab6fe4c3cf22873
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 

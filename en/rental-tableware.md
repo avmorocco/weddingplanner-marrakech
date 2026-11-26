@@ -6,9 +6,9 @@ Locale: en
 
 Purpose: Tableware for rent in Marrakech: plates, chargers, cutlery, wine glasses, flutes, coupes and hand-blown beldi glasses.
 
-Content updated: 2026-11-21
+Content updated: 2026-11-26
 
-Source revision: sha256:384c5c98546753ad
+Source revision: sha256:b93f09c5869355bb
 
 Maintenance owner: Wedding Planner Marrakech (site owner)
 
